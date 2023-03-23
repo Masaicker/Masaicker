@@ -1,5 +1,5 @@
 # AIGC备忘
-![imgae](https://cdn.discordapp.com/attachments/1086263095887937577/1088441917580247060/A_close-up_shot_of_the_nose_of_a_large_commercial_passenge_5c028c22-b945-4e9c-8d57-208fde4a6e19.png)
+![imgae](https://cdn.midjourney.com/d1a6253b-e3e5-4a61-be74-5fd92bf20d8e/0_2.png)
 ***
 <details>
   <summary><h2>GPT 相关</h2></summary>
