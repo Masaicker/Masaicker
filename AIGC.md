@@ -37,3 +37,28 @@
     <li><a href="https://github.com/features/preview/copilot-x">Copilot-x 申请</a></li>
   </ul>
 </details>
+
+<details>
+  <summary>Midjourney 相关</summary>
+  <ul>
+    <li><a href="https://docs.qq.com/sheet/DS05hV2FyUHJablR5?tab=BB08J2&_t=1678974130492&u=5b7f15183b364c7a923e94cbb2add654">Midjourney 关键词整理</a></li>
+    <li><a href="https://docs.google.com/spreadsheets/d/1MsX0NYYqhv4ZhZ7-50cXH1gvYE2FKLixLBvAkI40ha0/edit#gid=520663883">Midjourney Reference Sheets</a></li>
+    <li><a href="https://prompt.noonshot.com/">MidJourney Prompt Helper</a></li>
+    <li><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference">MidJourney Styles and Keywords Reference</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>其他相关</summary>
+  <ul>
+    <li><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></li>
+    <li><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></li>
+    <li><a href="https://www.upscale.media/zh/upload/">使用 AI 升级和增强您的图像</a></li>
+    <li><a href="https://yige.baidu.com/creation">文心一格</a></li>
+    <li><a href="https://www.cursor.so/">首个 GPT4 开发工具</a> (已降至 3.5，一般)</li>
+    <li><a href="https://www.notion.so/">Notion</a> (需要付费)</li>
+    <li><a href="https://app.pandagpt.io/chat">国产基于 GPT 的阅读器</a> (支持上传文档)</li>
+    <li><a href="https://research.runwayml.com/gen2">文字转视频 Gen-2</a></li>
+    <li><a href="https://app.gptzero.me/app/welcome">检查是否为 AI 写作</a></li>
+  </ul>
+</details>
