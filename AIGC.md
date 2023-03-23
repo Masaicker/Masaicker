@@ -5,6 +5,7 @@
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [ChatGPT 中文指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) / [在线指南](https://chatguide.plexpt.com/)
 - [Unity GPT 概念试验](https://github.com/keijiro/AICommand)
+- [copilot-x](https://github.com/features/preview/copilot-x)
 
 ## Midjourney 相关
 
