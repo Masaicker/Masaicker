@@ -1,4 +1,5 @@
 # AIGC备忘
+![imgae](https://cdn.discordapp.com/attachments/1086263095887937577/1088441917580247060/A_close-up_shot_of_the_nose_of_a_large_commercial_passenge_5c028c22-b945-4e9c-8d57-208fde4a6e19.png)
 
 ## GPT 相关
 
@@ -25,3 +26,14 @@
 - [国产基于 GPT 的阅读器](https://app.pandagpt.io/chat) (支持上传文档)
 - [文字转视频 Gen-2](https://research.runwayml.com/gen2)
 - [检查是否为 AI 写作](https://app.gptzero.me/app/welcome)
+
+
+<details>
+  <summary>GPT 相关</summary>
+  <ul>
+    <li><a href="https://github.com/f/awesome-chatgpt-prompts">Awesome ChatGPT Prompts</a></li>
+    <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></li>
+    <li><a href="https://github.com/keijiro/AICommand">Unity GPT 概念试验</a></li>
+    <li><a href="https://github.com/features/preview/copilot-x">Copilot-x 申请</a></li>
+  </ul>
+</details>
