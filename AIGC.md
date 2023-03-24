@@ -1,5 +1,5 @@
 # AIGC备忘
-![imgae](https://cdn.midjourney.com/d1a6253b-e3e5-4a61-be74-5fd92bf20d8e/0_2.png)
+![imgae](https://cdn.midjourney.com/d1a6253b-e3e5-4a61-be74-5fd92bf20d8e/0_2.png "喵喵喵~")
 ***
 <details>
   <summary><h2>GPT 相关</h2></summary>
@@ -12,12 +12,12 @@
     <li><details>
       <summary><h4>Chatgpt plugins</h4></summary>
       <ul>
-        <li><a href="https://github.com/f/awesome-chatgpt-prompts">AIPRM Premium for ChatGPT</a></li>
-        <li><a href="https://github.com/f/awesome-chatgpt-prompts">ChatGPT for Google</a></li>
-        <li><a href="https://github.com/f/awesome-chatgpt-prompts">ChatGPTBox</a></li>
-        <li><a href="https://github.com/f/awesome-chatgpt-prompts">Hustle AI - Supercharged & Free ChatGPT</a></li>
-        <li><a href="https://github.com/f/awesome-chatgpt-prompts">Superpower ChatGPT</a></li>
-        <li><a href="https://github.com/f/awesome-chatgpt-prompts">WebChatGPT：可访问互联网的 ChatGPT</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb" title="开始收费，差评如潮，呸">AIPRM Premium for ChatGPT</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf">ChatGPT for Google</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo">ChatGPTBox</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/hustle-ai-supercharged-fr/ccgjjclgjdmciiofkfmbgbmkdocamjdo">Hustle AI - Supercharged & Free ChatGPT</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc">Superpower ChatGPT</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn">WebChatGPT：可访问互联网的 ChatGPT</a></li>
       </ul>
     </details></li>
   </ul>
@@ -45,11 +45,11 @@
     <li><a href="https://www.upscale.media/zh/upload/">使用 AI 升级和增强您的图像</a></li>
     <li><a href="https://bing.com/create/">Bing画图</a></li>   
     <li><a href="https://yige.baidu.com/creation">文心一格</a></li>
-    <li><a href="https://www.cursor.so/">Cursor</a>  首个 GPT4 代码编辑器 </li>
+    <li><a href="https://www.cursor.so/" title="首个 GPT4 代码编辑器">Cursor</a></li>
     <li><a href="https://www.notion.so/">Notion</a></li>
-    <li><a href="https://app.pandagpt.io/chat">pandagpt</a>  国产基于 GPT 的阅读器 </li>
-    <li><a href="https://research.runwayml.com/gen2">Gen-2</a>  文字转视频</li>
-    <li><a href="https://app.gptzero.me/app/welcome">GPTZero</a>  检查是否为 AI 写作</li>
+    <li><a href="https://app.pandagpt.io/chat" title="国产基于 GPT 的阅读器">pandagpt</a></li>
+    <li><a href="https://research.runwayml.com/gen2" title="文字转视频">Gen-2</a></li>
+    <li><a href="https://app.gptzero.me/app/welcome" title="检查是否为 AI 写作">GPTZero</a></li>
   </ul>
 </details>
 
