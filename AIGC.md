@@ -32,11 +32,11 @@
     <li><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></li>
     <li><a href="https://www.upscale.media/zh/upload/">使用 AI 升级和增强您的图像</a></li>
     <li><a href="https://yige.baidu.com/creation">文心一格</a></li>
-    <li><a href="https://www.cursor.so/">首个 GPT4 开发工具</a> (已降至 3.5，一般)</li>
-    <li><a href="https://www.notion.so/">Notion</a> (需要付费)</li>
-    <li><a href="https://app.pandagpt.io/chat">国产基于 GPT 的阅读器</a> (支持上传文档)</li>
-    <li><a href="https://research.runwayml.com/gen2">文字转视频 Gen-2</a></li>
-    <li><a href="https://app.gptzero.me/app/welcome">检查是否为 AI 写作</a></li>
+    <li><a href="https://www.cursor.so/">Cursor</a>  首个 GPT4 代码编辑器 </li>
+    <li><a href="https://www.notion.so/">Notion</a></li>
+    <li><a href="https://app.pandagpt.io/chat">pandagpt</a>  国产基于 GPT 的阅读器 </li>
+    <li><a href="https://research.runwayml.com/gen2">Gen-2</a>  文字转视频</li>
+    <li><a href="https://app.gptzero.me/app/welcome">GPTZero</a>  检查是否为 AI 写作</li>
   </ul>
 </details>
 
