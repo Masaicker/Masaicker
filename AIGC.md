@@ -8,6 +8,7 @@
     <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></li>
     <li><a href="https://github.com/keijiro/AICommand">Unity GPT 概念试验</a></li>
     <li><a href="https://github.com/features/preview/copilot-x">Copilot-x 申请</a></li>
+    <li><a href="https://openai.com/blog/chatgpt-plugins">Chatgpt-plugins 申请</a></li>    
   </ul>
 </details>
 
