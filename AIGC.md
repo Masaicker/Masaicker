@@ -8,7 +8,18 @@
     <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></li>
     <li><a href="https://github.com/keijiro/AICommand">Unity GPT 概念试验</a></li>
     <li><a href="https://github.com/features/preview/copilot-x">Copilot-x 申请</a></li>
-    <li><a href="https://openai.com/blog/chatgpt-plugins">Chatgpt-plugins 申请</a></li>    
+    <li><a href="https://openai.com/blog/chatgpt-plugins">Chatgpt-plugins 申请</a></li>
+    <li><details>
+      <summary><h4>Chatgpt plugins</h4></summary>
+      <ul>
+        <li><a href="https://github.com/f/awesome-chatgpt-prompts">AIPRM Premium for ChatGPT</a></li>
+        <li><a href="https://github.com/f/awesome-chatgpt-prompts">ChatGPT for Google</a></li>
+        <li><a href="https://github.com/f/awesome-chatgpt-prompts">ChatGPTBox</a></li>
+        <li><a href="https://github.com/f/awesome-chatgpt-prompts">Hustle AI - Supercharged & Free ChatGPT</a></li>
+        <li><a href="https://github.com/f/awesome-chatgpt-prompts">Superpower ChatGPT</a></li>
+        <li><a href="https://github.com/f/awesome-chatgpt-prompts">WebChatGPT：可访问互联网的 ChatGPT</a></li>
+      </ul>
+    </details></li>
   </ul>
 </details>
 
