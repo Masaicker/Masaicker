@@ -5,7 +5,7 @@
 ![imgae](https://raw.githubusercontent.com/Masaicker/Masaicker/main/Png/eyes.png "悬停链接以展示更多内容，如果有的话")
 ***
 <details>
-  <summary><h2><img src="https://openai.com/favicon.ico" style="width: 20px; height: 20px;"> GPT 相关 </h2></summary>
+  <summary><h2><img src="https://chat.openai.com/favicon.ico" style="width: 20px; height: 20px;"> GPT 相关 </h2></summary>
   <ul>
     <li><a href="https://github.com/f/awesome-chatgpt-prompts">Awesome ChatGPT Prompts</a></li>
     <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></li>    
@@ -51,7 +51,7 @@
 ***
 
 <details>
-  <summary><h2><img src="https://github.com/favicon.ico" style="width: 20px; height: 20px;"> 其他相关 </h2></summary>
+  <summary><h2><img src="https://avatars.githubusercontent.com/u/27767666?v=4" style="width: 20px; height: 20px;"> 其他相关 </h2></summary>
   <ul>
     <li><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></li>
     <li><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></li>
@@ -69,7 +69,7 @@
 ***
 
 <details>
-  <summary><h2>星星</h2></summary>
+  <summary><h2>:star: 星星 </h2></summary>
   <ul>
     
 [![Star History Chart](https://api.star-history.com/svg?repos=Masaicker/Masaicker&type=Date)](https://star-history.com/#Masaicker/Masaicker&Date)
