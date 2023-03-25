@@ -1,6 +1,6 @@
 # AIGC备忘
 #### 悬停链接展示更多内容，如果有的话
-![imgae](https://cdn.discordapp.com/attachments/1086263095887937577/1089043144575811695/An_unfolded_ancient_Chinese_scroll_depicting_scenes_of_peo_58501a11-1c30-4abf-8b98-17d2204f1126.png "喵喵喵~")
+![imgae](https://cdn.discordapp.com/attachments/1086263095887937577/1089070976463024159/A_close-up_of_a_Chinese_girls_eyes_that_can_smile._Her_eye_7dbd97de-4ccc-4025-b915-f9089470ec3b.png "喵喵喵~")
 ***
 <details>
   <summary><h2>GPT 相关</h2></summary>
