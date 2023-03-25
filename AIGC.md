@@ -1,6 +1,9 @@
-# AIGC备忘
+<div align="center">
+    <h1><blockquote>AI Generated Content</blockquote></h1>
+</div>
+
 #### 悬停链接以展示更多内容，如果有的话
-![imgae](https://cdn.discordapp.com/attachments/1086263095887937577/1089070976463024159/A_close-up_of_a_Chinese_girls_eyes_that_can_smile._Her_eye_7dbd97de-4ccc-4025-b915-f9089470ec3b.png "喵喵喵~")
+![imgae](https://cdn.midjourney.com/cc3c5ee0-9db8-4059-a460-c7614c6e1f2d/0_0.png "喵喵喵~")
 ***
 <details>
   <summary><h2>GPT 相关</h2></summary>
