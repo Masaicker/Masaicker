@@ -2,7 +2,7 @@
     <h1><blockquote>AI Generated Content</blockquote></h1>
 </div>
 
-![imgae](https://cdn.midjourney.com/cc3c5ee0-9db8-4059-a460-c7614c6e1f2d/0_0.png "悬停链接以展示更多内容，如果有的话")
+![imgae](https://raw.githubusercontent.com/Masaicker/Masaicker/main/Png/eyes.png "悬停链接以展示更多内容，如果有的话")
 ***
 <details>
   <summary><h2>GPT 相关</h2></summary>
