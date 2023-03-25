@@ -5,7 +5,7 @@
 ![imgae](https://raw.githubusercontent.com/Masaicker/Masaicker/main/Png/eyes.png "悬停链接以展示更多内容，如果有的话")
 ***
 <details>
-  <summary><h2><img src="https://chat.openai.com/favicon.ico" style="width: 20px; height: 20px;"> GPT 相关 </h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Masaicker/Masaicker/main/Png/ChatGPT.svg" style="width: 20px; height: 20px;"> GPT 相关 </h2></summary>
   <ul>
     <li><a href="https://github.com/f/awesome-chatgpt-prompts">Awesome ChatGPT Prompts</a></li>
     <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></li>    
@@ -28,7 +28,7 @@
 ***
 
 <details>
-  <summary><h2><img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" style="width: 20px; height: 20px;"> Unity 相关 </h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Masaicker/Masaicker/main/Png/Unity.png" style="width: 20px; height: 20px;"> Unity 相关 </h2></summary>
   <ul>
     <li><a href="https://github.com/keijiro/AICommand" title="2022.2版本以上内置gpt测试">AICommand</a></li>
     <li><a href="https://github.com/hexthedev/OpenAi-Api-Unity" title="一个简单的API测试">OpenAi Api Unity</a></li>
@@ -39,7 +39,7 @@
 ***
 
 <details>
-  <summary><h2><img src="https://www.midjourney.com/favicon.ico" style="width: 20px; height: 20px;"> Midjourney 相关 </h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Masaicker/Masaicker/main/Png/Midjourney.png" style="width: 20px; height: 20px;"> Midjourney 相关 </h2></summary>
   <ul>
     <li><a href="https://docs.qq.com/sheet/DS05hV2FyUHJablR5?tab=BB08J2&_t=1678974130492&u=5b7f15183b364c7a923e94cbb2add654">Midjourney 关键词整理</a></li>
     <li><a href="https://docs.google.com/spreadsheets/d/1MsX0NYYqhv4ZhZ7-50cXH1gvYE2FKLixLBvAkI40ha0/edit#gid=520663883">Midjourney Reference Sheets</a></li>
