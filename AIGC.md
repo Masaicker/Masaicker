@@ -6,8 +6,7 @@
   <summary><h2>GPT 相关</h2></summary>
   <ul>
     <li><a href="https://github.com/f/awesome-chatgpt-prompts">Awesome ChatGPT Prompts</a></li>
-    <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></li>
-    <li><a href="https://github.com/keijiro/AICommand">Unity GPT 概念试验</a></li>
+    <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></li>    
     <li><a href="https://github.com/features/preview/copilot-x">Copilot-x 申请</a></li>
     <li><a href="https://openai.com/blog/chatgpt-plugins">Chatgpt-plugins 申请</a></li>
     <li><details>
@@ -21,6 +20,17 @@
         <li><a href="https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn">WebChatGPT：可访问互联网的 ChatGPT</a></li>
       </ul>
     </details></li>
+  </ul>
+</details>
+
+***
+
+<details>
+  <summary><h2>Unity 相关</h2></summary>
+  <ul>
+    <li><a href="https://github.com/keijiro/AICommand" title="2022.2版本以上内置gpt测试">AICommand</a></li>
+    <li><a href="https://github.com/hexthedev/OpenAi-Api-Unity" title="一个简单的API测试">OpenAi Api Unity</a></li>
+    <li><a href="https://create.unity.com/ai-beta" title="Unity官方AI申请beta">UNITY AI BETA PROGRAM</a></li>    
   </ul>
 </details>
 
