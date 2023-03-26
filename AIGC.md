@@ -51,7 +51,7 @@
 ***
 
 <details>
-  <summary title="有可能也不相关"><h2><a href="#1"><img src="https://avatars.githubusercontent.com/u/27767666?v=4" style="width: 20px; height: 20px;"></a> 其他相关 </h2></summary>
+  <summary title="也可能不相关"><h2><a href="#1"><img src="https://avatars.githubusercontent.com/u/27767666?v=4" style="width: 20px; height: 20px;"></a> 其他相关 </h2></summary>
   <ul>
     <li><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></li>
     <li><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></li>
