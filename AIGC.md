@@ -5,7 +5,7 @@
 
 ***
 <details>
-  <summary><h2><a href="#7"><img src="https://raw.githubusercontent.com/Masaicker/Masaicker/main/Png/ChatGPT.svg" style="width: 20px; height: 20px;" ></a> GPT 相关 </h2></summary>
+  <summary title="大的要来了"><h2><a href="#7"><img src="https://raw.githubusercontent.com/Masaicker/Masaicker/main/Png/ChatGPT.svg" style="width: 20px; height: 20px;" ></a> GPT 相关 </h2></summary>
   <ul>
     <li><a href="https://github.com/f/awesome-chatgpt-prompts">Awesome ChatGPT Prompts</a></li>
     <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></li>    
@@ -51,7 +51,7 @@
 ***
 
 <details>
-  <summary title="也可能不相关"><h2><a href="#1"><img src="https://avatars.githubusercontent.com/u/27767666?v=4" style="width: 20px; height: 20px;"></a> 其他相关 </h2></summary>
+  <summary title="也可能不相关"><h2><a href="#1" title="如果看不清，那就对了"><img src="https://avatars.githubusercontent.com/u/27767666?v=4" style="width: 20px; height: 20px;"></a> 其他相关 </h2></summary>
   <ul>
     <li><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></li>
     <li><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></li>
