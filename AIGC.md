@@ -12,7 +12,7 @@
     <li><a href="https://github.com/features/preview/copilot-x">Copilot-x 申请</a></li>
     <li><a href="https://openai.com/blog/chatgpt-plugins">Chatgpt-plugins 申请</a></li>
     <li><a href="https://www.bing.com/new" title="先清理cookie，再上梯，随后登录，最后使用Edge浏览器并更新到右上角有个B字母的版本">新必应 申请</a></li><br>
-    <details>
+    <li><details>
       <summary><b>Chatgpt 插件</b></summary>
       <ul>
         <li><a href="https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb" title="开始收费，差评如潮，呸">AIPRM Premium for ChatGPT</a></li>
@@ -22,16 +22,16 @@
         <li><a href="https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc">Superpower ChatGPT</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn">WebChatGPT：可访问互联网的 ChatGPT</a></li>
       </ul>
-    </details>
-    <details>
+    </details></li>
+    <li><details>
       <summary><b>Chatgpt 项目</b></summary>
       <ul>
           <li><a href="https://github.com/Chanzhaoyu/chatgpt-web">chatgpt-web</a></li>
-          <li><a href="https://github.com/RockChinQ/QChatGPT">ChatRWKV</a></li>
+          <li><a href="https://github.com/BlinkDL/ChatRWKV">ChatRWKV</a></li>
           <li><a href="https://github.com/microsoft/visual-chatgpt">visual-chatgpt</a></li>
           <li><a href="https://github.com/RockChinQ/QChatGPT">QChatGPT</a></li>
       </ul>
-    </details>
+    </details></li>
   </ul>
 </details>
 
