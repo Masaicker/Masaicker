@@ -11,7 +11,7 @@
     <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></li>    
     <li><a href="https://github.com/features/preview/copilot-x">Copilot-x 申请</a></li>
     <li><a href="https://openai.com/blog/chatgpt-plugins">Chatgpt-plugins 申请</a></li>
-    <li><a href="https://www.bing.com/new" title="先清理cookie，再上梯，随后登录，最后使用Edge浏览器并更新到右上角有个B字母的版本">新必应 申请</a></li><br>
+    <li><a href="https://www.bing.com/new" title="先上梯，再清理cookie，随后登录，最后使用Edge浏览器并更新到右上角有个B字母的版本">新必应 申请</a></li><br>
     <li><details>
       <summary><b>Chatgpt 插件</b></summary>
       <ul>
