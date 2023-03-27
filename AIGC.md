@@ -23,6 +23,7 @@
         <li><a href="https://chrome.google.com/webstore/detail/hustle-ai-supercharged-fr/ccgjjclgjdmciiofkfmbgbmkdocamjdo">Hustle AI - Supercharged & Free ChatGPT</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc">Superpower ChatGPT</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn">WebChatGPT：可访问互联网的 ChatGPT</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/chatonai-unlock-the-power/feeonheemodpkdckaljcjogdncpiiban">chatgpt中文 - Chatonai</a></li>
       </ul>
     </details></li>
     <li><details>
