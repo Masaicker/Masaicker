@@ -13,6 +13,7 @@
     <li><a href="https://openai.com/blog/chatgpt-plugins">Chatgpt-plugins 申请</a></li>
     <li><a href="https://www.bing.com/new" title="先上梯，再清理cookie，随后登录，最后使用Edge浏览器并更新到右上角有个B字母的版本">新必应 申请</a></li>
     <li><a href="https://arxiv.org/pdf/2303.12712.pdf" title="GTP4早期实验报告">Sparks of Artificial General Intelligence: Early experiments with GPT-4</a></li>
+    <li><a href="https://gpt3demo.com/">ChatGPT相关应用资讯</a></li>      
       <br>
     <li><details>
       <summary><b>Chatgpt 插件</b></summary>
@@ -24,6 +25,7 @@
         <li><a href="https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc">Superpower ChatGPT</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn">WebChatGPT：可访问互联网的 ChatGPT</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/chatonai-unlock-the-power/feeonheemodpkdckaljcjogdncpiiban">chatgpt中文 - Chatonai</a></li>
+        <li><a href="https://github.com/bigemon/ChatGPT-ToolBox">ChatGPT-ToolBox</a></li>
       </ul>
     </details></li>
     <li><details>
