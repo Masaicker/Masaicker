@@ -26,7 +26,8 @@
         <li><a href="https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn">WebChatGPT：可访问互联网的 ChatGPT</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/chatonai-unlock-the-power/feeonheemodpkdckaljcjogdncpiiban">chatgpt中文 - Chatonai</a></li>
         <li><a href="https://github.com/bigemon/ChatGPT-ToolBox">ChatGPT-ToolBox</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/lunabot-chatgpt-on-any-we/jkeolmadidncndcbnajhaojepbolajag" title="在任何网页上都可以使用的ChatGPT">LunaBot</a></li>          
+        <li><a href="https://chrome.google.com/webstore/detail/lunabot-chatgpt-on-any-we/jkeolmadidncndcbnajhaojepbolajag" title="在任何网页上都可以使用的ChatGPT">LunaBot</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn" title="用说话代替打字">voice-control-for-chatgpt</a></li>
       </ul>
     </details></li>
     <li><details>
