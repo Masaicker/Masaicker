@@ -87,15 +87,15 @@
             <details>
                 <summary title="大多数包含免费额度">服务器/部署/数据库等相关平台</summary>
                 <ul>
-                    <li><a href="https://dashboard.4everland.org/login">4everland</li>
-                    <li><a href="https://railway.app/">railway</li>
-                    <li><a href="https://vercel.com/">vercel</li>
-                    <li><a href="https://www.netlify.com/">netlify</li>
-                    <li><a href="https://render.com/">render</li>
-                    <li><a href="https://fleek.co/">fleek</li>
-                    <li><a href="https://www.cloudflare.com/">cloudflare</li>
-                    <li><a href="https://colab.research.google.com/">colab</li>
-                    <li><a href="https://huggingface.co/">huggingface</li>
+                    <li><a href="https://dashboard.4everland.org/login">4everland</a></li>
+                    <li><a href="https://railway.app/">railway</a></li>
+                    <li><a href="https://vercel.com/">vercel</a></li>
+                    <li><a href="https://www.netlify.com/">netlify</a></li>
+                    <li><a href="https://render.com/">render</a></li>
+                    <li><a href="https://fleek.co/">fleek</a></li>
+                    <li><a href="https://www.cloudflare.com/">cloudflare</a></li>
+                    <li><a href="https://colab.research.google.com/">colab</a></li>
+                    <li><a href="https://huggingface.co/">huggingface</a></li>
                 </ul>
             </details>
         </blockquote>
