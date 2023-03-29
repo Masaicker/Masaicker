@@ -7,6 +7,7 @@
 <details>
   <summary title="大的要来了"><h2><a href="#7"><img src="./Png/ChatGPT.svg" style="width: 20px; height: 20px;" ></a> GPT 相关 </h2></summary>
   <ul>
+    <li><a href="https://status.openai.com">Openai 状态查询</a></li>
     <li><a href="https://github.com/f/awesome-chatgpt-prompts">Awesome ChatGPT Prompts</a></li>
     <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></li>    
     <li><a href="https://github.com/features/preview/copilot-x">Copilot-x 申请</a></li>
