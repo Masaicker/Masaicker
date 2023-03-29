@@ -80,6 +80,23 @@
     <li><a href="https://app.pandagpt.io/chat" title="国产基于 GPT 的阅读器">pandagpt</a></li>
     <li><a href="https://research.runwayml.com/gen2" title="文字转视频">Gen-2</a></li>
     <li><a href="https://app.gptzero.me/app/welcome" title="检查是否为 AI 写作">GPTZero</a></li>
+    <li>
+        <blockquote>
+            <details>
+                <summary title="大多数包含免费额度">服务器/部署/数据库等相关平台</summary>
+                <ul>
+                    <li><a href="https://dashboard.4everland.org/login">4everland</li>
+                    <li><a href="https://railway.app/">railway</li>
+                    <li><a href="https://vercel.com/">vercel</li>
+                    <li><a href="https://www.netlify.com/">netlify</li>
+                    <li><a href="https://render.com/">render</li>
+                    <li><a href="https://fleek.co/">fleek</li>
+                    <li><a href="https://www.cloudflare.com/">cloudflare</li>
+                    <li><a href="https://colab.research.google.com//">colab</li>
+                </ul>
+            </details>
+        </blockquote>
+    </li>
   </ul>
 </details>
 
