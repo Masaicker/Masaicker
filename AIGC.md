@@ -34,6 +34,8 @@
       <summary><b>Chatgpt 项目</b></summary>
       <ul>
           <li><a href="https://github.com/Chanzhaoyu/chatgpt-web">chatgpt-web</a></li>
+          <li><a href="https://github.com/ddiu8081/chatgpt-demo">chatgpt-demo</a></li>
+          <li><a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT">ChuanhuChatGPT</a></li>          
           <li><a href="https://github.com/BlinkDL/ChatRWKV">ChatRWKV</a></li>
           <li><a href="https://github.com/microsoft/visual-chatgpt">visual-chatgpt</a></li>
           <li><a href="https://github.com/RockChinQ/QChatGPT">QChatGPT</a></li>
@@ -92,7 +94,8 @@
                     <li><a href="https://render.com/">render</li>
                     <li><a href="https://fleek.co/">fleek</li>
                     <li><a href="https://www.cloudflare.com/">cloudflare</li>
-                    <li><a href="https://colab.research.google.com//">colab</li>
+                    <li><a href="https://colab.research.google.com/">colab</li>
+                    <li><a href="https://huggingface.co/">huggingface</li>
                 </ul>
             </details>
         </blockquote>
