@@ -29,6 +29,7 @@
         <li><a href="https://github.com/bigemon/ChatGPT-ToolBox">ChatGPT-ToolBox</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/lunabot-chatgpt-on-any-we/jkeolmadidncndcbnajhaojepbolajag" title="在任何网页上都可以使用的ChatGPT">LunaBot</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn" title="用说话代替打字">voice-control-for-chatgpt</a></li>
+        <li><a href=" https://github.com/binary-husky/chatgpt_academic" title="科研工作专用ChatGPT拓展">chatgpt_academic</a></li>         
       </ul>
     </details></li>
     <li><details>
