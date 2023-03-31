@@ -14,7 +14,8 @@
     <li><a href="https://openai.com/blog/chatgpt-plugins">Chatgpt-plugins 申请</a></li>
     <li><a href="https://www.bing.com/new" title="先上梯，再清理cookie，随后登录，最后使用Edge浏览器并更新到右上角有个B字母的版本">新必应 申请</a></li>
     <li><a href="https://arxiv.org/pdf/2303.12712.pdf" title="GTP4早期实验报告">Sparks of Artificial General Intelligence: Early experiments with GPT-4</a></li>
-    <li><a href="https://gpt3demo.com/">ChatGPT相关应用资讯</a></li>      
+    <li><a href="https://gpt3demo.com/">ChatGPT相关应用资讯</a></li>
+    <li><a href="https://www.promptingguide.ai/zh" title="chatgpt提示工程指南">promptingguide</a></li>
       <br>
     <li><details>
       <summary><b>Chatgpt 插件</b></summary>
@@ -41,8 +42,7 @@
           <li><a href="https://github.com/microsoft/visual-chatgpt">visual-chatgpt</a></li>
           <li><a href="https://github.com/RockChinQ/QChatGPT">QChatGPT</a></li>
           <li><a href="https://github.com/binary-husky/chatgpt_academic" title="科研工作专用ChatGPT拓展">chatgpt_academic</a></li>
-          <li><a href="https://github.com/Yidadaa/ChatGPT-Next-Web">ChatGPT-Next-Webc</a></li>
-          <li><a href="https://www.promptingguide.ai/zh" title="chatgpt提示工程指南">promptingguide</a></li>          
+          <li><a href="https://github.com/Yidadaa/ChatGPT-Next-Web">ChatGPT-Next-Webc</a></li>                  
       </ul>
     </details></li>
   </ul>
