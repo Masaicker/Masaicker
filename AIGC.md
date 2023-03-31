@@ -23,10 +23,10 @@
         <li><a href="https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb" title="开始收费，差评如潮，呸">AIPRM Premium for ChatGPT</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf" title="虽然说是google但是搜索引擎都会拓展">ChatGPT for Google</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo" title="比上一个应用还广的拓展">ChatGPTBox</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/hustle-ai-supercharged-fr/ccgjjclgjdmciiofkfmbgbmkdocamjdo" title="还行">Hustle AI - Supercharged & Free ChatGPT</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc" title="细化网页端，可导入导出，有prompts">Superpower ChatGPT</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/hustle-ai-supercharged-fr/ccgjjclgjdmciiofkfmbgbmkdocamjdo" title="类AIPRM，还行">Hustle AI - Supercharged & Free ChatGPT</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc" title="与AIPRM方向不同，细化操作，优化体验，可导入导出，有prompts">Superpower ChatGPT</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn">WebChatGPT：可访问互联网的 ChatGPT</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/chatonai-unlock-the-power/feeonheemodpkdckaljcjogdncpiiban">chatgpt中文 - Chatonai</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/chatonai-unlock-the-power/feeonheemodpkdckaljcjogdncpiiban" title="也是类AIPRM">chatgpt中文 - Chatonai</a></li>
         <li><a href="https://github.com/bigemon/ChatGPT-ToolBox" title="绕开监管，慎用">ChatGPT-ToolBox</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/lunabot-chatgpt-on-any-we/jkeolmadidncndcbnajhaojepbolajag" title="在任何网页上都可以使用的ChatGPT">LunaBot</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn" title="用说话代替打字">voice-control-for-chatgpt</a></li>
@@ -36,10 +36,10 @@
       <summary><b>Chatgpt 项目</b></summary>
       <ul>
           <li><a href="https://github.com/Chanzhaoyu/chatgpt-web" title="包含前后端的web项目">chatgpt-web</a></li>
-          <li><a href="https://github.com/ddiu8081/chatgpt-demo">chatgpt-demo</a></li>
-          <li><a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT">ChuanhuChatGPT</a></li>          
-          <li><a href="https://github.com/BlinkDL/ChatRWKV">ChatRWKV</a></li>
-          <li><a href="https://github.com/microsoft/visual-chatgpt">visual-chatgpt</a></li>
+          <li><a href="https://github.com/ddiu8081/chatgpt-demo" title="同样是一个优秀的web项目">chatgpt-demo</a></li>
+          <li><a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT" title="同上">ChuanhuChatGPT</a></li>          
+          <li><a href="https://github.com/BlinkDL/ChatRWKV" title="可以成为“大规模语言模型的Stable Diffusion”，本地部署">ChatRWKV</a></li>
+          <li><a href="https://github.com/microsoft/visual-chatgpt" title="微软的chatgpt和视觉模型结合项目，本地部署">visual-chatgpt</a></li>
           <li><a href="https://github.com/RockChinQ/QChatGPT" title="用于QQ">QChatGPT</a></li>
           <li><a href="https://github.com/binary-husky/chatgpt_academic" title="科研工作专用ChatGPT拓展">chatgpt_academic</a></li>
           <li><a href="https://github.com/Yidadaa/ChatGPT-Next-Web" title="支持一键部署的web项目">ChatGPT-Next-Webc</a></li>                  
@@ -65,9 +65,9 @@
   <summary><h2><a href="#4"><img src="./Png/Midjourney.png" style="width: 20px; height: 20px;"></a> Midjourney 相关 </h2></summary>
   <ul>
     <li><a href="https://docs.qq.com/sheet/DS05hV2FyUHJablR5?tab=BB08J2&_t=1678974130492&u=5b7f15183b364c7a923e94cbb2add654">Midjourney 关键词整理</a></li>
-    <li><a href="https://docs.google.com/spreadsheets/d/1MsX0NYYqhv4ZhZ7-50cXH1gvYE2FKLixLBvAkI40ha0/edit#gid=520663883">Midjourney Reference Sheets</a></li>
-    <li><a href="https://prompt.noonshot.com/">MidJourney Prompt Helper</a></li>
-    <li><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference">MidJourney Styles and Keywords Reference</a></li>
+    <li><a href="https://docs.google.com/spreadsheets/d/1MsX0NYYqhv4ZhZ7-50cXH1gvYE2FKLixLBvAkI40ha0/edit#gid=520663883" title="关键词文档">Midjourney Reference Sheets</a></li>
+    <li><a href="https://prompt.noonshot.com/" title="关键词在线生成网站">MidJourney Prompt Helper</a></li>
+    <li><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference" title="关键词效果预览">MidJourney Styles and Keywords Reference</a></li>
   </ul>
 </details>
 
