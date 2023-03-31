@@ -21,13 +21,13 @@
       <summary><b>Chatgpt 插件</b></summary>
       <ul>
         <li><a href="https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb" title="开始收费，差评如潮，呸">AIPRM Premium for ChatGPT</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf">ChatGPT for Google</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo">ChatGPTBox</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/hustle-ai-supercharged-fr/ccgjjclgjdmciiofkfmbgbmkdocamjdo">Hustle AI - Supercharged & Free ChatGPT</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc">Superpower ChatGPT</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf" title="虽然说是google但是搜索引擎都会拓展">ChatGPT for Google</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo" title="比上一个应用还广的拓展">ChatGPTBox</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/hustle-ai-supercharged-fr/ccgjjclgjdmciiofkfmbgbmkdocamjdo" title="还行">Hustle AI - Supercharged & Free ChatGPT</a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc" title="细化网页端，可导入导出，有prompts">Superpower ChatGPT</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn">WebChatGPT：可访问互联网的 ChatGPT</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/chatonai-unlock-the-power/feeonheemodpkdckaljcjogdncpiiban">chatgpt中文 - Chatonai</a></li>
-        <li><a href="https://github.com/bigemon/ChatGPT-ToolBox">ChatGPT-ToolBox</a></li>
+        <li><a href="https://github.com/bigemon/ChatGPT-ToolBox" title="绕开监管，慎用">ChatGPT-ToolBox</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/lunabot-chatgpt-on-any-we/jkeolmadidncndcbnajhaojepbolajag" title="在任何网页上都可以使用的ChatGPT">LunaBot</a></li>
         <li><a href="https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn" title="用说话代替打字">voice-control-for-chatgpt</a></li>
       </ul>
