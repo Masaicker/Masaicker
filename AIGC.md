@@ -8,10 +8,10 @@
   <summary title="大的要来了"><h2><a href="#7"><img src="./Png/ChatGPT.svg" style="width: 20px; height: 20px;" ></a> GPT 相关 </h2></summary>
   <ul>
     <li><a href="https://status.openai.com">Openai 状态查询</a></li>
-    <li><a href="https://github.com/f/awesome-chatgpt-prompts">Awesome ChatGPT Prompts</a></li>
-    <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></li>    
-    <li><a href="https://github.com/features/preview/copilot-x">Copilot-x 申请</a></li>
-    <li><a href="https://openai.com/blog/chatgpt-plugins">Chatgpt-plugins 申请</a></li>
+    <li><a href="https://github.com/f/awesome-chatgpt-prompts" title="chatgpt英文提示">Awesome ChatGPT Prompts</a></li>
+    <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh" title="chatgpt中文提示">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></li>    
+    <li><a href="https://github.com/features/preview/copilot-x" title="比Copilot更强">Copilot-x 申请</a></li>
+    <li><a href="https://openai.com/blog/chatgpt-plugins" title="拓展时刻">Chatgpt-plugins 申请</a></li>
     <li><a href="https://www.bing.com/new" title="先上梯，再清理cookie，随后登录，最后使用Edge浏览器并更新到右上角有个B字母的版本">新必应 申请</a></li>
     <li><a href="https://arxiv.org/pdf/2303.12712.pdf" title="GTP4早期实验报告">Sparks of Artificial General Intelligence: Early experiments with GPT-4</a></li>
     <li><a href="https://gpt3demo.com/">ChatGPT相关应用资讯</a></li>
