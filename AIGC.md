@@ -42,6 +42,7 @@
           <li><a href="https://github.com/RockChinQ/QChatGPT">QChatGPT</a></li>
           <li><a href="https://github.com/binary-husky/chatgpt_academic" title="科研工作专用ChatGPT拓展">chatgpt_academic</a></li>
           <li><a href="https://github.com/Yidadaa/ChatGPT-Next-Web">ChatGPT-Next-Webc</a></li>
+          <li><a href="https://www.promptingguide.ai/zh" title="chatgpt提示工程指南">promptingguide</a></li>          
       </ul>
     </details></li>
   </ul>
