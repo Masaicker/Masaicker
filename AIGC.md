@@ -16,6 +16,7 @@
     <li><a href="https://arxiv.org/pdf/2303.12712.pdf" title="GTP4早期实验报告">Sparks of Artificial General Intelligence: Early experiments with GPT-4</a></li>
     <li><a href="https://gpt3demo.com/" title="如题">ChatGPT相关应用资讯</a></li>
     <li><a href="https://www.promptingguide.ai/zh" title="chatgpt提示工程指南">promptingguide</a></li>
+    <li><a href="https://www.jailbreakchat.com/" title="越狱提示">jailbreakchat</a></li>      
       <br>
     <li><details>
       <summary><b>Chatgpt 插件</b></summary>
