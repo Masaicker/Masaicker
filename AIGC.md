@@ -44,7 +44,7 @@
           <li><a href="https://github.com/RockChinQ/QChatGPT" title="用于QQ">QChatGPT</a></li>
           <li><a href="https://github.com/binary-husky/chatgpt_academic" title="科研工作专用ChatGPT拓展">chatgpt_academic</a></li>
           <li><a href="https://github.com/Yidadaa/ChatGPT-Next-Web" title="支持一键部署的web项目">ChatGPT-Next-Webc</a></li>
-          <li><a href="https://github.com/lencx/nofwl" title="为避免原项目名字侵权而新建的chatgpt桌面版项目">nofwl</a></li>
+          <li><a href="https://github.com/lencx/nofwl" title="为避免原项目可能存在的侵权行为而新建的chatgpt桌面版项目">nofwl</a></li>
           <li><a href="https://github.com/finishy1995/effibot" title="思维导图式chatgpt">effibot</a></li>
           <li><a href="https://github.com/nomic-ai/gpt4all" title="本地部署，详情进项目查阅">gpt4all</a></li>          
       </ul>
