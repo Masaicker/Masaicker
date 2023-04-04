@@ -83,8 +83,15 @@
     <li><details>
       <summary><b>Prompt 技巧</b></summary>
       <ul>
-          <li><a title="本地部署，详情进项目查阅">不要使用估量副词，不要使用否定词。</a></li>  
-          <li>越靠前的prompt默认权重越高。</li>  
+          <li>不要使用估量副词，不要使用否定词。</li>  
+          <li>越靠前的prompt默认权重越高。</li>
+          <li>blend模式尽可能不加描述，混合模式本身不太可控。</li>
+          <li>describe模式为逆向图片可能的Prompts。</li>
+          <li>垫图特别说明：<br>
+              1.修复模式下，越靠前的prompt默认权重越高，但会被构图严重影响；<br>
+              2.修复模式下，去除链接/所有，仍然会保留构图； <br>
+              3.简单暴力PS后，融合效果更佳； <br>
+          </li>
       </ul>
     </details></li>
   </ul>
