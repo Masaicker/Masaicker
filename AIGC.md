@@ -13,7 +13,7 @@
     <li><a href="https://github.com/features/preview/copilot-x" title="比Copilot更强">Copilot-x 申请</a></li>
     <li><a href="https://openai.com/blog/chatgpt-plugins" title="拓展时刻">Chatgpt-plugins 申请</a></li>
     <li><a href="https://www.bing.com/new" title="先上梯，再清理cookie，随后登录，最后使用Edge浏览器并更新到右上角有个B字母的版本">新必应 申请</a></li>
-    <li><a href="https://bing.com/create/" title="另外的Bing画图方式：新必应窗口选择“更多有创造力”语气，再给画图指令和关键词">Bing画图</a></li>   
+    <li><a href="https://bing.com/create/" title="另外的Bing画图方式：新必应窗口选择“更多有创造力”语气，再给画图指令和关键词">Bing 画图</a></li>   
     <li><a href="https://arxiv.org/pdf/2303.12712.pdf" title="GTP4早期实验报告">Sparks of Artificial General Intelligence: Early experiments with GPT-4</a></li>
     <li><a href="https://gpt3demo.com/" title="如题">ChatGPT相关应用资讯</a></li>
     <li><a href="https://www.promptingguide.ai/zh" title="chatgpt提示工程指南">promptingguide</a></li>
