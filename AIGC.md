@@ -83,7 +83,7 @@
     <li><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></li>
     <li><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></li>
     <li><a href="https://www.upscale.media/zh/upload/">使用 AI 升级和增强您的图像</a></li>
-    <li><a href="https://bing.com/create/">Bing画图</a></li>   
+    <li><a href="https://bing.com/create/" title="新必应窗口选择“更多有创造力”语气，再画图指令和关键词，效果相同">Bing画图</a></li>   
     <li><a href="https://yige.baidu.com/creation">文心一格</a></li>
     <li><a href="https://www.cursor.so/" title="首个 GPT4 代码编辑器">Cursor</a></li>
     <li><a href="https://www.notion.so/">Notion</a></li>
