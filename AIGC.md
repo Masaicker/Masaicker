@@ -80,6 +80,13 @@
     <li><a href="https://docs.google.com/spreadsheets/d/1MsX0NYYqhv4ZhZ7-50cXH1gvYE2FKLixLBvAkI40ha0/edit#gid=520663883" title="关键词文档">Midjourney Reference Sheets</a></li>
     <li><a href="https://prompt.noonshot.com/" title="关键词在线生成网站">MidJourney Prompt Helper</a></li>
     <li><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference" title="关键词效果预览">MidJourney Styles and Keywords Reference</a></li>
+    <li><details>
+      <summary><b>Prompt 技巧</b></summary>
+      <ul>
+          <li><a href="#" title="本地部署，详情进项目查阅">不要使用估量副词，不要使用否定词。</a></li>  
+          <li>越靠前的prompt默认权重越高。</li>  
+      </ul>
+    </details></li>
   </ul>
 </details>
 
