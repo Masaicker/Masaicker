@@ -83,7 +83,7 @@
     <li><details>
       <summary><b>Prompt 技巧</b></summary>
       <ul>
-          <li><a href="##" title="本地部署，详情进项目查阅">不要使用估量副词，不要使用否定词。</a></li>  
+          <li><a href="" title="本地部署，详情进项目查阅">不要使用估量副词，不要使用否定词。</a></li>  
           <li>越靠前的prompt默认权重越高。</li>  
       </ul>
     </details></li>
