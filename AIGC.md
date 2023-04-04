@@ -50,6 +50,13 @@
           <li><a href="https://github.com/nomic-ai/gpt4all" title="本地部署，详情进项目查阅">gpt4all</a></li>          
       </ul>
     </details></li>
+    <li><details>
+      <summary><b>Chatgpt 技巧</b></summary>
+      <ul>
+          <li>1. 为ChatGPT导入特定的模型，该模型包含输入和输出，然后按照用户需求输入相应的文本，ChatGPT将根据模型的特定算法生成相应的输出内容。</li>  
+          <li>2. 元技巧，通过事先了解某个AI模型（如GPT）常犯的错误，然后在提问时将该错误信息提供给模型，以便模型能够自我修正并提供更准确的答案的一种技巧。</li>  
+      </ul>
+    </details></li>
   </ul>
 </details>
 
