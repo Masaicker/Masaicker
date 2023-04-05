@@ -138,9 +138,10 @@
 
 <details>
   <summary><h2> 星星 </h2></summary>
-  <ul>
-      
-[![Star History Chart](https://api.star-history.com/svg?repos=Masaicker/Masaicker&type=Date)](https://star-history.com/#Masaicker/Masaicker&Date)
-    
+  <ul>      
+    <div align="center">
+        <img src="https://profile-counter.glitch.me/{Masaicker}/count.svg">
+        <img src="https://api.star-history.com/svg?repos=Masaicker/Masaicker&type=Date">
+    </div>    
   </ul>
 </details>
