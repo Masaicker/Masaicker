@@ -139,7 +139,9 @@
 <details>
   <summary><h2> 星星 </h2></summary>
   <ul>
-    
+      
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Masaicker.Masaicker)    
+      
 [![Star History Chart](https://api.star-history.com/svg?repos=Masaicker/Masaicker&type=Date)](https://star-history.com/#Masaicker/Masaicker&Date)
     
   </ul>
