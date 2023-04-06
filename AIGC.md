@@ -92,6 +92,20 @@
               2.修复模式下，去除链接/所有，仍然会保留构图； <br>
               3.简单暴力PS后，融合效果更佳； <br>
           </li>
+          <li>⚠️ --repeat int 重复工作int次，配合--chaos形多风格化的半自动化流程。</li>
+          <li>⚠️ 使用{ 大括号 }排列组合，{ 大括号 }可相互嵌套。参考：<br>
+              <blockquote>
+                  /imagine a {cyberpunk, vaporwave, art deco} {cat, dog}<br>
+                  将产生以下工作<br>
+                  /imagine a cyberpunk cat<br>
+                  /imagine a vaporwave cat<br>
+                  /imagine a art deco cat<br>
+                  /imagine a cyberpunk dog<br>
+                  /imagine a vaporwave dog<br>
+                  /imagine a art deco dog<br>
+              </blockquote>          
+          </li>
+          <li>⚠️表示需要Pro Plan档订阅，60刀/月</li>
       </ul>
     </details></li>
   </ul>
