@@ -42,7 +42,7 @@
           <li><a href="https://github.com/ddiu8081/chatgpt-demo" title="同样是一个优秀的web项目">chatgpt-demo</a></li>
           <li><a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT" title="同上">ChuanhuChatGPT</a></li>          
           <li><a href="https://github.com/BlinkDL/ChatRWKV" title="可以成为“大规模语言模型的Stable Diffusion”，本地部署">ChatRWKV</a></li>
-          <li><a href=" https://github.com/THUDM/ChatGLM-6B" title="6B，本地部署">ChatGLM-6B</a></li>         
+          <li><a href="https://github.com/THUDM/ChatGLM-6B" title="6B，本地部署">ChatGLM-6B</a></li>         
           <li><a href="https://github.com/microsoft/visual-chatgpt" title="微软的chatgpt和视觉模型结合项目，本地部署">visual-chatgpt</a></li>
           <li><a href="https://github.com/RockChinQ/QChatGPT" title="用于QQ">QChatGPT</a></li>
           <li><a href="https://github.com/binary-husky/chatgpt_academic" title="科研工作专用ChatGPT拓展">chatgpt_academic</a></li>
