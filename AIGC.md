@@ -36,7 +36,7 @@
       </ul>
     </details></li>
     <li><details>
-      <summary><b>Chatgpt 项目</b></summary>
+      <summary><b>Chatgpt 及各种项目</b></summary>
       <ul>
           <li><a href="https://github.com/Chanzhaoyu/chatgpt-web" title="包含前后端的web项目">chatgpt-web</a></li>
           <li><a href="https://github.com/ddiu8081/chatgpt-demo" title="同样是一个优秀的web项目">chatgpt-demo</a></li>
