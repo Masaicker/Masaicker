@@ -119,6 +119,7 @@
 <details>
   <summary title="也可能不相关"><h2><a href="#1" title="如果看不清，那就对了"><img src="https://avatars.githubusercontent.com/u/27767666?v=4" style="width: 20px; height: 20px;"></a> 其他相关 </h2></summary>
   <ul>
+    <li><a href="https://github.com/facebookresearch/segment-anything" title="图像分割模型，元宇宙真正动手了。此链接为SAM的项目地址。">SegmentAnything Model (SAM)</a> / <a href="https://segment-anything.com/demo#" title="SAM在线Demo"> Sam Demo </a></li>
     <li><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></li>
     <li><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></li>
     <li><a href="https://www.upscale.media/zh/upload/">使用 AI 升级和增强您的图像</a></li>
