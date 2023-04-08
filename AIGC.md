@@ -36,7 +36,7 @@
       </ul>
     </details></li>
     <li><details>
-      <summary><b>Chatgpt 及各种项目</b></summary>
+      <summary><b>Chatgpt 及其他项目</b></summary>
       <ul>
           <li><a href="https://github.com/Chanzhaoyu/chatgpt-web" title="包含前后端的web项目">chatgpt-web</a></li>
           <li><a href="https://github.com/ddiu8081/chatgpt-demo" title="同样是一个优秀的web项目">chatgpt-demo</a></li>
@@ -50,6 +50,7 @@
           <li><a href="https://github.com/lencx/nofwl" title="为避免原项目可能存在的侵权行为而新建的chatgpt桌面版项目">nofwl</a></li>
           <li><a href="https://github.com/finishy1995/effibot" title="思维导图式chatgpt">effibot</a></li>
           <li><a href="https://github.com/nomic-ai/gpt4all" title="本地部署，详情进项目查阅">gpt4all</a></li> 
+          <li><a href="https://github.com/microsoft/JARVIS" title="微软贾维斯">JARVIS</a></li>          
       </ul>
     </details></li>
     <li><details>
