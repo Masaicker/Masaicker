@@ -128,8 +128,7 @@
     <li><a href="https://models.paomiantv.cn/models" title="Stable diffusion 模型国内站">炼丹阁</a></li>
     <li><a href="https://app.scenario.com/" title="游戏资产应用，在线训练">scenario</a></li>
     <li><a href="https://rightbrain.art/" title="国产在线绘画AI">Vega AI 创作平台</a></li>
-    <li><a href="https://github.com/camenduru/stable-diffusion-webui-colab" title="几键部署stable diffusion到谷歌colab">stable-diffusion-webui-colab</a></li>     
-    <li><a href="https://beta.character.ai/" title="与指定角色聊天">character ai</a></li>
+    <li><a href="https://github.com/camenduru/stable-diffusion-webui-colab" title="几键部署stable diffusion到谷歌colab">stable-diffusion-webui-colab</a></li>
     <li><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></li>
     <li><a href="https://www.upscale.media/zh/upload/">使用 AI 升级和增强您的图像</a></li>
     <li><a href="https://yige.baidu.com/creation">文心一格</a></li>
