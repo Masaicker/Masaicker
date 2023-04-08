@@ -122,6 +122,8 @@
   <ul>
     <li><a href="https://github.com/facebookresearch/segment-anything" title="图像分割模型，元宇宙真正动手了。此链接为SAM的项目地址。">SegmentAnything Model (SAM)</a> / <a href="https://segment-anything.com/demo#" title="SAM在线Demo"> Sam Demo </a></li>
     <li><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></li>
+    <li><a href="https://civitai.com/" title="Stable diffusion 模型">civitai</a></li>
+    <li><a href="https://models.paomiantv.cn/models" title="Stable diffusion 模型国内站">炼丹阁</a></li>
     <li><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></li>
     <li><a href="https://www.upscale.media/zh/upload/">使用 AI 升级和增强您的图像</a></li>
     <li><a href="https://yige.baidu.com/creation">文心一格</a></li>
