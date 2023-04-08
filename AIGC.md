@@ -135,6 +135,7 @@
     <li><a href="https://app.gptzero.me/app/welcome" title="检查是否为 AI 写作">GPTZero</a></li>
     <li><a href="https://www.aiva.ai" title="AI音乐制作，只有订阅最高档的用户拥有版权">aiva</a></li>
     <li><a href="https://wavtool.com/" title="AI音乐制作，上手挺快，有PRO订阅服务">wavtool</a></li>
+    <li><a href="https://tongyi.aliyun.com/" title="阿里AI">通义千问</a></li>      
     <li>
         <blockquote>
             <details>
