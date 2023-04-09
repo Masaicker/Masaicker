@@ -77,7 +77,7 @@
 ***
 
 <details>
-  <summary><h2><a href="#4"><img src="./Png/Midjourney.png" style="width: 20px; height: 20px;"></a> 绘画AI 相关 </h2></summary>
+  <summary><h2><a href="#4"><img src="./Png/Midjourney.png" style="width: 20px; height: 20px;"></a> 绘画 相关 </h2></summary>
   <ul>
     <li><a href="https://docs.qq.com/sheet/DS05hV2FyUHJablR5?tab=BB08J2&_t=1678974130492&u=5b7f15183b364c7a923e94cbb2add654">Midjourney 关键词整理</a></li>
     <li><a href="https://docs.google.com/spreadsheets/d/1MsX0NYYqhv4ZhZ7-50cXH1gvYE2FKLixLBvAkI40ha0/edit#gid=520663883" title="关键词文档">Midjourney Reference Sheets</a></li>
