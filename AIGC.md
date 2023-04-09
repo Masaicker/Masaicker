@@ -7,51 +7,220 @@
 <details>
   <summary title="大的要来了"><h2><a href="#7"><img src="./Png/ChatGPT.svg" style="width: 20px; height: 20px;" ></a> GPT 相关 </h2></summary>
   <ul>
-    <li><a href="https://status.openai.com" title="如题">Openai 状态查询</a></li>
-    <li><a href="https://github.com/f/awesome-chatgpt-prompts" title="chatgpt英文提示">Awesome ChatGPT Prompts</a></li>
-    <li><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh" title="chatgpt中文提示">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com" title="与左相同但没有同步更新">ChatGPT 在线指南</a></li>    
-    <li><a href="https://github.com/features/preview/copilot-x" title="比Copilot更强">Copilot-x 申请</a></li>
-    <li><a href="https://openai.com/blog/chatgpt-plugins" title="拓展时刻">Chatgpt-plugins 申请</a></li>
-    <li><a href="https://www.bing.com/new" title="先上梯，再清理cookie，随后登录，最后使用Edge浏览器并更新到右上角有个B字母的版本">新必应 申请</a></li>
-    <li><a href="https://bing.com/create/" title="另外的Bing画图方式：新必应窗口选择“更多有创造力”语气，再给画图指令和关键词">Bing 画图</a></li>   
-    <li><a href="https://arxiv.org/pdf/2303.12712.pdf" title="GTP4早期实验报告">Sparks of Artificial General Intelligence: Early experiments with GPT-4</a> / <a href="https://ask.qcloudimg.com/draft/8642415/7jbe0upcgg.pdf">中译版</a></li>
-    <li><a href="https://arxiv.org/pdf/2303.18223.pdf" title="大型语言模型综述">A Survey of Large Language Models</a></li>
-    <li><a href="https://gpt3demo.com/" title="如题">ChatGPT 相关应用资讯</a></li>
-    <li><a href="https://www.promptingguide.ai/zh" title="chatgpt提示工程指南">promptingguide</a></li>
-    <li><a href="https://www.jailbreakchat.com/" title="越狱提示">jailbreakchat</a></li>      
+<table>
+<thead>
+<tr>
+<th>名字</th>
+<th>类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://status.openai.com">Openai 状态查询</a></td>
+<td>网页</td>
+<td>All Systems Operational 当前状态</td>
+</tr>
+<tr>
+<td><a href="https://github.com/f/awesome-chatgpt-prompts">Awesome ChatGPT Prompts</a></td>
+<td>github</td>
+<td>Chatgpt 英文提示词</td>
+</tr>
+<tr>
+<td><a href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh">ChatGPT 中文指南</a> / <a href="https://chatguide.plexpt.com">ChatGPT 在线指南</a></td>
+<td>github</td>
+<td>Chatgpt 中文提示词</td>
+</tr>
+<tr>
+<td><a href="https://github.com/features/preview/copilot-x">Copilot-x 申请</a></td>
+<td>网页</td>
+<td>写代码可能比Copilot更爽</td>
+</tr>
+<tr>
+<td><a href="https://openai.com/blog/chatgpt-plugins">Chatgpt-plugins 申请</a></td>
+<td>网页</td>
+<td>被誉为苹果商店时刻</td>
+</tr>
+<tr>
+<td><a href="https://www.bing.com/new">新必应 申请</a></td>
+<td>网页</td>
+<td>先上梯，再清理cookie，随后登录，Edge更新即可</td>
+</tr>
+<tr>
+<td><a href="https://bing.com/create/">Bing 画图</a></td>
+<td>网页</td>
+<td>另外的Bing画图方式：新必应窗口选择“更多有创造力”语气，再给画图指令和关键词</td>
+</tr>
+<tr>
+<td><a href="https://arxiv.org/pdf/2303.12712.pdf">Sparks of Artificial General Intelligence: Early experiments with GPT-4</a> / <a href="https://ask.qcloudimg.com/draft/8642415/7jbe0upcgg.pdf">中译版</a></td>
+<td>论文</td>
+<td>GTP4早期实验报告</td>
+</tr>
+<tr>
+<td><a href="https://arxiv.org/pdf/2303.18223.pdf">A Survey of Large Language Models</a></td>
+<td>论文</td>
+<td>大型语言模型综述</td>
+</tr>
+<tr>
+<td><a href="https://gpt3demo.com/">GPT 相关应用资讯</a></td>
+<td>聚合</td>
+<td>目前跟GPT有关的开发或待开发的应用</td>
+</tr>
+<tr>
+<td><a href="https://www.promptingguide.ai/zh">promptingguide</a></td>
+<td>网页</td>
+<td>Chatgpt提示工程指南</td>
+</tr>
+<tr>
+<td><a href="https://www.jailbreakchat.com/">jailbreakchat</a></td>
+<td>聚合</td>
+<td>有不少越狱提示词</td>
+</tr>
+</tbody>
+</table>   
       <br>
     <li><details>
       <summary><b>Chatgpt 插件</b></summary>
-      <ul>
-        <li><a href="https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb" title="开始收费，差评如潮，呸">AIPRM Premium for ChatGPT</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf" title="虽然说是google但是搜索引擎都会拓展">ChatGPT for Google</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo" title="比上一个应用还广的拓展">ChatGPTBox</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/hustle-ai-supercharged-fr/ccgjjclgjdmciiofkfmbgbmkdocamjdo" title="类AIPRM，还行">Hustle AI - Supercharged & Free ChatGPT</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc" title="与AIPRM方向不同，细化操作，优化体验，可导入导出，有prompts">Superpower ChatGPT</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn">WebChatGPT：可访问互联网的 ChatGPT</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/chatonai-unlock-the-power/feeonheemodpkdckaljcjogdncpiiban" title="也是类AIPRM">chatgpt中文 - Chatonai</a></li>
-        <li><a href="https://github.com/bigemon/ChatGPT-ToolBox" title="绕开监管，慎用">ChatGPT-ToolBox</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/lunabot-chatgpt-on-any-we/jkeolmadidncndcbnajhaojepbolajag" title="在任何网页上都可以使用的ChatGPT">LunaBot</a></li>
-        <li><a href="https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn" title="用说话代替打字">voice-control-for-chatgpt</a></li>
-      </ul>
+<table>
+<thead>
+<tr>
+<th>名字</th>
+<th>类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb">AIPRM Premium for ChatGPT</a></td>
+<td>插件</td>
+<td>开始收费，差评如潮，呸</td>
+</tr>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf">ChatGPT for Google</a></td>
+<td>插件</td>
+<td>虽然说是google但是搜索引擎都会拓展</td>
+</tr>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo">ChatGPTBox</a></td>
+<td>插件</td>
+<td>比上一个应用还广的拓展</td>
+</tr>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/hustle-ai-supercharged-fr/ccgjjclgjdmciiofkfmbgbmkdocamjdo">Hustle AI - Supercharged &amp; Free ChatGPT</a></td>
+<td>插件</td>
+<td>类AIPRM，还行</td>
+</tr>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc">Superpower ChatGPT</a></td>
+<td>插件</td>
+<td>与AIPRM方向不同，细化操作，优化体验，可导入导出，有prompts</td>
+</tr>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn">WebChatGPT：可访问互联网的 ChatGPT</a></td>
+<td>插件</td>
+<td>如题</td>
+</tr>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/chatonai-unlock-the-power/feeonheemodpkdckaljcjogdncpiiban">chatgpt中文 - Chatonai</a></td>
+<td>插件</td>
+<td>类AIPRM</td>
+</tr>
+<tr>
+<td><a href="https://github.com/bigemon/ChatGPT-ToolBox">ChatGPT-ToolBox</a></td>
+<td>插件</td>
+<td>绕开监管，慎用</td>
+</tr>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/lunabot-chatgpt-on-any-we/jkeolmadidncndcbnajhaojepbolajag">LunaBot</a></td>
+<td>插件</td>
+<td>在任何网页上都可以使用的ChatGPT</td>
+</tr>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn">voice-control-for-chatgpt</a></td>
+<td>插件</td>
+<td>用说话代替打字</td>
+</tr>
+</tbody>
+</table>
     </details></li>
     <li><details>
       <summary><b>Chatgpt 及其他项目</b></summary>
-      <ul>
-          <li><a href="https://github.com/Chanzhaoyu/chatgpt-web" title="包含前后端的web项目">chatgpt-web</a></li>
-          <li><a href="https://github.com/ddiu8081/chatgpt-demo" title="同样是一个优秀的web项目">chatgpt-demo</a></li>
-          <li><a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT" title="同上">ChuanhuChatGPT</a></li>          
-          <li><a href="https://github.com/BlinkDL/ChatRWKV" title="可以成为“大规模语言模型的Stable Diffusion”，本地部署">ChatRWKV</a></li>
-          <li><a href="https://github.com/THUDM/ChatGLM-6B" title="6B，本地部署">ChatGLM-6B</a></li>         
-          <li><a href="https://github.com/microsoft/visual-chatgpt" title="微软的chatgpt和视觉模型结合项目，本地部署">visual-chatgpt</a></li>
-          <li><a href="https://github.com/RockChinQ/QChatGPT" title="用于QQ">QChatGPT</a></li>
-          <li><a href="https://github.com/binary-husky/chatgpt_academic" title="科研工作专用ChatGPT拓展">chatgpt_academic</a></li>
-          <li><a href="https://github.com/Yidadaa/ChatGPT-Next-Web" title="支持一键部署的web项目">ChatGPT-Next-Webc</a></li>
-          <li><a href="https://github.com/lencx/nofwl" title="为避免原项目可能存在的侵权行为而新建的chatgpt桌面版项目">nofwl</a></li>
-          <li><a href="https://github.com/finishy1995/effibot" title="思维导图式chatgpt">effibot</a></li>
-          <li><a href="https://github.com/nomic-ai/gpt4all" title="本地部署，详情进项目查阅">gpt4all</a></li> 
-          <li><a href="https://github.com/microsoft/JARVIS" title="微软贾维斯">JARVIS</a></li>          
-      </ul>
+<table>
+<thead>
+<tr>
+<th>名字</th>
+<th>类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/Chanzhaoyu/chatgpt-web">chatgpt-web</a></td>
+<td>github</td>
+<td>包含前后端的web项目</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ddiu8081/chatgpt-demo">chatgpt-demo</a></td>
+<td>github</td>
+<td>同样是一个优秀的web项目</td>
+</tr>
+<tr>
+<td><a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT">ChuanhuChatGPT</a></td>
+<td>github</td>
+<td>同上</td>
+</tr>
+<tr>
+<td><a href="https://github.com/BlinkDL/ChatRWKV">ChatRWKV</a></td>
+<td>github</td>
+<td>可以成为“大规模语言模型的Stable Diffusion”，本地部署</td>
+</tr>
+<tr>
+<td><a href="https://github.com/THUDM/ChatGLM-6B">ChatGLM-6B</a></td>
+<td>github</td>
+<td>6B，本地部署</td>
+</tr>
+<tr>
+<td><a href="https://github.com/microsoft/visual-chatgpt">visual-chatgpt</a></td>
+<td>github</td>
+<td>微软的chatgpt和视觉模型结合项目，本地部署</td>
+</tr>
+<tr>
+<td><a href="https://github.com/RockChinQ/QChatGPT">QChatGPT</a></td>
+<td>github</td>
+<td>用于QQ</td>
+</tr>
+<tr>
+<td><a href="https://github.com/binary-husky/chatgpt_academic">chatgpt_academic</a></td>
+<td>github</td>
+<td>科研工作专用ChatGPT拓展</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Yidadaa/ChatGPT-Next-Web">ChatGPT-Next-Webc</a></td>
+<td>github</td>
+<td>支持一键部署的web项目</td>
+</tr>
+<tr>
+<td><a href="https://github.com/lencx/nofwl">nofwl</a></td>
+<td>github</td>
+<td>为避免原项目可能存在的侵权行为而新建的chatgpt桌面版项目</td>
+</tr>
+<tr>
+<td><a href="https://github.com/finishy1995/effibot">effibot</a></td>
+<td>github</td>
+<td>思维导图式chatgpt</td>
+</tr>
+<tr>
+<td><a href="https://github.com/nomic-ai/gpt4all">gpt4all</a></td>
+<td>github</td>
+<td>本地部署，详情进项目查阅</td>
+</tr>
+<tr>
+<td><a href="https://github.com/microsoft/JARVIS">JARVIS</a></td>
+<td>github</td>
+<td>微软贾维斯</td>
+</tr>
+</tbody>
+</table>
     </details></li>
     <li><details>
       <summary><b>Chatgpt 技巧</b></summary>
