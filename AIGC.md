@@ -127,7 +127,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/bigemon/ChatGPT-ToolBox">ChatGPT-ToolBox</a></td>
-<td>插件</td>
+<td>github</td>
 <td>绕开监管，慎用</td>
 </tr>
 <tr>
@@ -248,18 +248,77 @@
 <details>
   <summary><h2><a href="#4"><img src="./Png/Midjourney.png" style="width: 20px; height: 20px;"></a> 绘画 相关 </h2></summary>
   <ul>
-    <li><a href="https://docs.qq.com/sheet/DS05hV2FyUHJablR5?tab=BB08J2&_t=1678974130492&u=5b7f15183b364c7a923e94cbb2add654">Midjourney 关键词整理</a></li>
-    <li><a href="https://docs.google.com/spreadsheets/d/1MsX0NYYqhv4ZhZ7-50cXH1gvYE2FKLixLBvAkI40ha0/edit#gid=520663883" title="关键词文档">Midjourney Reference Sheets</a></li>
-    <li><a href="https://prompt.noonshot.com/" title="关键词在线生成网站">MidJourney Prompt Helper</a></li>
-    <li><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference" title="关键词效果预览">MidJourney Styles and Keywords Reference</a></li>    
-    <li><a href="https://github.com/Moonvy/OpenPromptStudio" title="AIGC 提示词可视化编辑器">OpenPromptStudio</a></li>
-    <li><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></li>
-    <li><a href="https://github.com/invoke-ai/InvokeAI" title="Stable diffusion 可视化UI项目">InvokeAI</a></li>      
-    <li><a href="https://civitai.com/" title="Stable diffusion 模型">civitai</a></li>
-    <li><a href="https://models.paomiantv.cn/models" title="Stable diffusion 模型国内站">炼丹阁</a></li>
-    <li><a href="https://app.scenario.com/" title="游戏资产应用，在线训练">scenario</a></li>
-    <li><a href="https://rightbrain.art/" title="国产在线绘画AI">Vega AI 创作平台</a></li>
-    <li><a href="https://github.com/camenduru/stable-diffusion-webui-colab" title="几键部署stable diffusion到谷歌colab">stable-diffusion-webui-colab</a></li>
+<table>
+<thead>
+<tr>
+<th>名字</th>
+<th>类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://docs.qq.com/sheet/DS05hV2FyUHJablR5?tab=BB08J2&amp;_t=1678974130492&amp;u=5b7f15183b364c7a923e94cbb2add654">Midjourney 关键词整理</a></td>
+<td>文档</td>
+<td>关键词文档</td>
+</tr>
+<tr>
+<td><a href="https://docs.google.com/spreadsheets/d/1MsX0NYYqhv4ZhZ7-50cXH1gvYE2FKLixLBvAkI40ha0/edit#gid=520663883">Midjourney Reference Sheets</a></td>
+<td>文档</td>
+<td>关键词文档</td>
+</tr>
+<tr>
+<td><a href="https://prompt.noonshot.com/">MidJourney Prompt Helper</a></td>
+<td>网页</td>
+<td>关键词在线生成网站</td>
+</tr>
+<tr>
+<td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference">MidJourney Styles and Keywords Reference</a></td>
+<td>github</td>
+<td>关键词效果预览</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Moonvy/OpenPromptStudio">OpenPromptStudio</a></td>
+<td>github</td>
+<td>AIGC 提示词可视化编辑器</td>
+</tr>
+<tr>
+<td><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></td>
+<td>网页</td>
+<td>Stable diffusion 新手艺</td>
+</tr>
+<tr>
+<td><a href="https://github.com/invoke-ai/InvokeAI">InvokeAI</a></td>
+<td>github</td>
+<td>Stable diffusion 可视化UI项目</td>
+</tr>
+<tr>
+<td><a href="https://civitai.com/">civitai</a></td>
+<td>网页</td>
+<td>Stable diffusion 模型</td>
+</tr>
+<tr>
+<td><a href="https://models.paomiantv.cn/models">炼丹阁</a></td>
+<td>网页</td>
+<td>Stable diffusion 模型国内站</td>
+</tr>
+<tr>
+<td><a href="https://app.scenario.com/">scenario</a></td>
+<td>网页</td>
+<td>游戏资产应用，在线训练</td>
+</tr>
+<tr>
+<td><a href="https://rightbrain.art/">Vega AI 创作平台</a></td>
+<td>网页</td>
+<td>国产在线绘画AI</td>
+</tr>
+<tr>
+<td><a href="https://github.com/camenduru/stable-diffusion-webui-colab">stable-diffusion-webui-colab</a></td>
+<td>github</td>
+<td>几键部署stable diffusion到谷歌colab</td>
+</tr>
+</tbody>
+</table>
     <li><details>
       <summary><b>Midjourney Prompt 技巧</b></summary>
       <ul>
@@ -298,19 +357,82 @@
 <details>
   <summary title="也可能不相关"><h2><a href="#1" title="如果看不清，那就对了"><img src="https://avatars.githubusercontent.com/u/27767666?v=4" style="width: 20px; height: 20px;"></a> 其他相关 </h2></summary>
   <ul>
-    <li><a href="https://github.com/facebookresearch/segment-anything" title="图像分割模型，元宇宙真正动手了。此链接为SAM的项目地址。">SegmentAnything Model (SAM)</a> / <a href="https://segment-anything.com/demo#" title="SAM在线Demo"> Sam Demo </a></li>    
-    <li><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></li>
-    <li><a href="https://www.upscale.media/zh/upload/">使用 AI 升级和增强您的图像</a></li>
-    <li><a href="https://yige.baidu.com/creation">文心一格</a></li>
-    <li><a href="https://www.cursor.so/" title="首个 GPT4 代码编辑器">Cursor</a></li>
-    <li><a href="https://www.notion.so/">Notion</a></li>
-    <li><a href="https://app.pandagpt.io/chat" title="国产基于 GPT 的阅读器">pandagpt</a></li>
-    <li><a href="https://research.runwayml.com/gen2" title="文字转视频">Gen-2</a></li>
-    <li><a href="https://app.gptzero.me/app/welcome" title="检查是否为 AI 写作">GPTZero</a></li>
-    <li><a href="https://www.aiva.ai" title="AI音乐制作，只有订阅最高档的用户拥有版权">aiva</a></li>
-    <li><a href="https://wavtool.com/" title="AI音乐制作，上手挺快，有PRO订阅服务">wavtool</a></li>
-    <li><a href="https://tongyi.aliyun.com/" title="阿里AI">通义千问</a></li>
-    <li><a href="https://www.aiagc.com/" title="AI种类信息聚合">aiagc</a></li>
+<table>
+<thead>
+<tr>
+<th>名字</th>
+<th>类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/facebookresearch/segment-anything">SegmentAnything Model (SAM)</a> / <a href="https://segment-anything.com/demo#">Sam Demo</a></td>
+<td>github</td>
+<td>图像分割模型，元宇宙真正动手了。此链接为SAM的项目地址。</td>
+</tr>
+<tr>
+<td><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></td>
+<td>网页</td>
+<td>Adobe的AI申请</td>
+</tr>
+<tr>
+<td><a href="https://www.upscale.media/zh/upload/">使用 AI 升级和增强您的图像</a></td>
+<td>网页</td>
+<td>如题</td>
+</tr>
+<tr>
+<td><a href="https://yige.baidu.com/creation">文心一格</a></td>
+<td>网页</td>
+<td>百度绘画</td>
+</tr>
+<tr>
+<td><a href="https://www.cursor.so/">Cursor</a></td>
+<td>网页</td>
+<td>首个 GPT4 代码编辑器</td>
+</tr>
+<tr>
+<td><a href="https://www.notion.so/">Notion</a></td>
+<td>网页</td>
+<td>如题，但付费</td>
+</tr>
+<tr>
+<td><a href="https://app.pandagpt.io/chat">pandagpt</a></td>
+<td>网页</td>
+<td>国产基于 GPT 的阅读器</td>
+</tr>
+<tr>
+<td><a href="https://research.runwayml.com/gen2">Gen-2</a></td>
+<td>网页</td>
+<td>文字转视频</td>
+</tr>
+<tr>
+<td><a href="https://app.gptzero.me/app/welcome">GPTZero</a></td>
+<td>网页</td>
+<td>检查是否为 AI 写作，目前不准</td>
+</tr>
+<tr>
+<td><a href="https://www.aiva.ai">aiva</a></td>
+<td>网页</td>
+<td>AI音乐制作，只有订阅最高档的用户拥有版权</td>
+</tr>
+<tr>
+<td><a href="https://wavtool.com/">wavtool</a></td>
+<td>网页</td>
+<td>AI音乐制作，上手挺快，有PRO订阅服务</td>
+</tr>
+<tr>
+<td><a href="https://tongyi.aliyun.com/">通义千问</a></td>
+<td>网页</td>
+<td>阿里AI</td>
+</tr>
+<tr>
+<td><a href="https://www.aiagc.com/">aiagc</a></td>
+<td>聚合</td>
+<td>AI种类信息聚合</td>
+</tr>
+</tbody>
+</table>
     <li>
         <blockquote>
             <details>
