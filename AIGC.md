@@ -235,12 +235,43 @@
 ***
 
 <details>
-  <summary><h2><a href="#3"><img src="./Png/Unity.png" style="width: 20px; height: 20px;"></a> Unity 相关 </h2></summary>
-  <ul>
-    <li><a href="https://github.com/keijiro/AICommand" title="2022.2版本以上内置gpt测试">AICommand</a></li>
-    <li><a href="https://github.com/hexthedev/OpenAi-Api-Unity" title="一个简单的API测试">OpenAi Api Unity</a></li>
-    <li><a href="https://create.unity.com/ai-beta" title="Unity官方AI申请beta">UNITY AI BETA PROGRAM</a></li>    
-  </ul>
+  <summary><h2><a href="#3"><img src="./Png/Unity.png" style="width: 20px; height: 20px;"></a> 游戏 相关 </h2></summary>
+<table>
+<thead>
+<tr>
+<th>名字</th>
+<th>类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/keijiro/AICommand">AICommand</a></td>
+<td>github</td>
+<td>Unity 2022.2版本以上内置gpt测试</td>
+</tr>
+<tr>
+<td><a href="https://github.com/hexthedev/OpenAi-Api-Unity">OpenAi Api Unity</a></td>
+<td>github</td>
+<td>Unity 一个简单API测试</td>
+</tr>
+<tr>
+<td><a href="https://create.unity.com/ai-beta">UNITY AI BETA PROGRAM</a></td>
+<td>网页</td>
+<td>Unity官方AI申请beta</td>
+</tr>
+<tr>
+<td><a href="https://store.steampowered.com/app/2259510/_/">马良</a></td>
+<td>steam</td>
+<td>AI贴图</td>
+</tr>
+<tr>
+<td><a href="https://app.scenario.com/">scenario</a></td>
+<td>网页</td>
+<td>游戏资产应用，在线训练</td>
+</tr>
+</tbody>
+</table>
 </details>
 
 ***
@@ -301,11 +332,6 @@
 <td><a href="https://models.paomiantv.cn/models">炼丹阁</a></td>
 <td>网页</td>
 <td>Stable diffusion 模型国内站</td>
-</tr>
-<tr>
-<td><a href="https://app.scenario.com/">scenario</a></td>
-<td>网页</td>
-<td>游戏资产应用，在线训练</td>
 </tr>
 <tr>
 <td><a href="https://rightbrain.art/">Vega AI 创作平台</a></td>
