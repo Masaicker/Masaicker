@@ -82,7 +82,8 @@
     <li><a href="https://docs.qq.com/sheet/DS05hV2FyUHJablR5?tab=BB08J2&_t=1678974130492&u=5b7f15183b364c7a923e94cbb2add654">Midjourney 关键词整理</a></li>
     <li><a href="https://docs.google.com/spreadsheets/d/1MsX0NYYqhv4ZhZ7-50cXH1gvYE2FKLixLBvAkI40ha0/edit#gid=520663883" title="关键词文档">Midjourney Reference Sheets</a></li>
     <li><a href="https://prompt.noonshot.com/" title="关键词在线生成网站">MidJourney Prompt Helper</a></li>
-    <li><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference" title="关键词效果预览">MidJourney Styles and Keywords Reference</a></li>
+    <li><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference" title="关键词效果预览">MidJourney Styles and Keywords Reference</a></li>    
+    <li><a href="https://github.com/Moonvy/OpenPromptStudio" title="AIGC 提示词可视化编辑器">OpenPromptStudio</a></li>
     <li><details>
       <summary><b>Prompt 技巧</b></summary>
       <ul>
