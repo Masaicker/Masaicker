@@ -77,15 +77,22 @@
 ***
 
 <details>
-  <summary><h2><a href="#4"><img src="./Png/Midjourney.png" style="width: 20px; height: 20px;"></a> Midjourney 相关 </h2></summary>
+  <summary><h2><a href="#4"><img src="./Png/Midjourney.png" style="width: 20px; height: 20px;"></a> 绘画AI 相关 </h2></summary>
   <ul>
     <li><a href="https://docs.qq.com/sheet/DS05hV2FyUHJablR5?tab=BB08J2&_t=1678974130492&u=5b7f15183b364c7a923e94cbb2add654">Midjourney 关键词整理</a></li>
     <li><a href="https://docs.google.com/spreadsheets/d/1MsX0NYYqhv4ZhZ7-50cXH1gvYE2FKLixLBvAkI40ha0/edit#gid=520663883" title="关键词文档">Midjourney Reference Sheets</a></li>
     <li><a href="https://prompt.noonshot.com/" title="关键词在线生成网站">MidJourney Prompt Helper</a></li>
     <li><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference" title="关键词效果预览">MidJourney Styles and Keywords Reference</a></li>    
     <li><a href="https://github.com/Moonvy/OpenPromptStudio" title="AIGC 提示词可视化编辑器">OpenPromptStudio</a></li>
+    <li><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></li>
+    <li><a href="https://github.com/invoke-ai/InvokeAI" title="Stable diffusion 可视化UI项目">InvokeAI</a></li>      
+    <li><a href="https://civitai.com/" title="Stable diffusion 模型">civitai</a></li>
+    <li><a href="https://models.paomiantv.cn/models" title="Stable diffusion 模型国内站">炼丹阁</a></li>
+    <li><a href="https://app.scenario.com/" title="游戏资产应用，在线训练">scenario</a></li>
+    <li><a href="https://rightbrain.art/" title="国产在线绘画AI">Vega AI 创作平台</a></li>
+    <li><a href="https://github.com/camenduru/stable-diffusion-webui-colab" title="几键部署stable diffusion到谷歌colab">stable-diffusion-webui-colab</a></li>
     <li><details>
-      <summary><b>Prompt 技巧</b></summary>
+      <summary><b>Midjourney Prompt 技巧</b></summary>
       <ul>
           <li>不要使用估量副词，不要使用否定词。</li>  
           <li>越靠前的prompt默认权重越高。</li>
@@ -122,14 +129,7 @@
 <details>
   <summary title="也可能不相关"><h2><a href="#1" title="如果看不清，那就对了"><img src="https://avatars.githubusercontent.com/u/27767666?v=4" style="width: 20px; height: 20px;"></a> 其他相关 </h2></summary>
   <ul>
-    <li><a href="https://github.com/facebookresearch/segment-anything" title="图像分割模型，元宇宙真正动手了。此链接为SAM的项目地址。">SegmentAnything Model (SAM)</a> / <a href="https://segment-anything.com/demo#" title="SAM在线Demo"> Sam Demo </a></li>
-    <li><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></li>
-    <li><a href="https://github.com/invoke-ai/InvokeAI" title="Stable diffusion 可视化UI项目">InvokeAI</a></li>      
-    <li><a href="https://civitai.com/" title="Stable diffusion 模型">civitai</a></li>
-    <li><a href="https://models.paomiantv.cn/models" title="Stable diffusion 模型国内站">炼丹阁</a></li>
-    <li><a href="https://app.scenario.com/" title="游戏资产应用，在线训练">scenario</a></li>
-    <li><a href="https://rightbrain.art/" title="国产在线绘画AI">Vega AI 创作平台</a></li>
-    <li><a href="https://github.com/camenduru/stable-diffusion-webui-colab" title="几键部署stable diffusion到谷歌colab">stable-diffusion-webui-colab</a></li>
+    <li><a href="https://github.com/facebookresearch/segment-anything" title="图像分割模型，元宇宙真正动手了。此链接为SAM的项目地址。">SegmentAnything Model (SAM)</a> / <a href="https://segment-anything.com/demo#" title="SAM在线Demo"> Sam Demo </a></li>    
     <li><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></li>
     <li><a href="https://www.upscale.media/zh/upload/">使用 AI 升级和增强您的图像</a></li>
     <li><a href="https://yige.baidu.com/creation">文心一格</a></li>
