@@ -381,7 +381,7 @@
 ***
 
 <details>
-  <summary title="也可能不相关"><h2><a href="#1" title="如果看不清，那就对了"><img src="https://avatars.githubusercontent.com/u/27767666?v=4" style="width: 20px; height: 20px;"></a> 其他相关 </h2></summary>
+  <summary title="也可能不相关"><h2><a href="#1" title="如果看不清，那就对了"><img src="https://avatars.githubusercontent.com/u/27767666?v=4" style="width: 20px; height: 20px;"></a> 其他 相关 </h2></summary>
   <ul>
 <table>
 <thead>
