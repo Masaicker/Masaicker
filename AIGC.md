@@ -93,37 +93,37 @@
 <tr>
 <td><a href="https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb">AIPRM Premium for ChatGPT</a></td>
 <td>插件</td>
-<td>开始收费，差评如潮，呸</td>
+<td>一键提示，用于SEO、营销、文案、生产力等。目前有收费项，差评如潮</td>
 </tr>
 <tr>
 <td><a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf">ChatGPT for Google</a></td>
 <td>插件</td>
-<td>虽然说是google但是搜索引擎都会拓展</td>
+<td>将Chatgpt整合至搜索引擎，虽然说是google但是搜索引擎都能用</td>
 </tr>
 <tr>
 <td><a href="https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo">ChatGPTBox</a></td>
 <td>插件</td>
-<td>比上一个应用还广的拓展</td>
+<td>将Chatgpt深度集成到浏览器，非常便捷</td>
 </tr>
 <tr>
 <td><a href="https://chrome.google.com/webstore/detail/hustle-ai-supercharged-fr/ccgjjclgjdmciiofkfmbgbmkdocamjdo">Hustle AI - Supercharged &amp; Free ChatGPT</a></td>
 <td>插件</td>
-<td>类AIPRM，还行</td>
+<td>AIPRM平替</td>
 </tr>
 <tr>
 <td><a href="https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc">Superpower ChatGPT</a></td>
 <td>插件</td>
-<td>与AIPRM方向不同，细化操作，优化体验，可导入导出，有prompts</td>
+<td>推荐。增强插件，方便管理聊天记录，导入导出，时间标识，也有提示。重点是聚合了AI新闻。</td>
 </tr>
 <tr>
-<td><a href="https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn">WebChatGPT：可访问互联网的 ChatGPT</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn">WebChatGPT</a></td>
 <td>插件</td>
-<td>如题</td>
+<td>可访问互联网的 ChatGPT</td>
 </tr>
 <tr>
 <td><a href="https://chrome.google.com/webstore/detail/chatonai-unlock-the-power/feeonheemodpkdckaljcjogdncpiiban">chatgpt中文 - Chatonai</a></td>
 <td>插件</td>
-<td>类AIPRM</td>
+<td>AIPRM平替</td>
 </tr>
 <tr>
 <td><a href="https://github.com/bigemon/ChatGPT-ToolBox">ChatGPT-ToolBox</a></td>
@@ -369,7 +369,7 @@
 <tr>
 <td><a href="https://github.com/facebookresearch/segment-anything">SegmentAnything Model (SAM)</a> / <a href="https://segment-anything.com/demo#">Sam Demo</a></td>
 <td>github</td>
-<td>图像分割模型，元宇宙真正动手了。此链接为SAM的项目地址。</td>
+<td>图像分割模型，元宇宙的</td>
 </tr>
 <tr>
 <td><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></td>
@@ -377,9 +377,9 @@
 <td>Adobe的AI申请</td>
 </tr>
 <tr>
-<td><a href="https://www.upscale.media/zh/upload/">使用 AI 升级和增强您的图像</a></td>
+<td><a href="https://www.upscale.media/zh/upload/">upscale</a></td>
 <td>网页</td>
-<td>如题</td>
+<td>使用 AI 升级和增强您的图像</td>
 </tr>
 <tr>
 <td><a href="https://yige.baidu.com/creation">文心一格</a></td>
@@ -394,7 +394,7 @@
 <tr>
 <td><a href="https://www.notion.so/">Notion</a></td>
 <td>网页</td>
-<td>如题，但付费</td>
+<td>著名AI笔记本</td>
 </tr>
 <tr>
 <td><a href="https://app.pandagpt.io/chat">pandagpt</a></td>
