@@ -76,6 +76,11 @@
 <td>聚合</td>
 <td>有不少越狱提示词</td>
 </tr>
+<tr>
+<td><a href="https://github.com/Torantulino/Auto-GPT">Auto-GPT</a></td>
+<td>github</td>
+<td>AGI婴儿</td>
+</tr>    
 </tbody>
 </table>   
       <br>
