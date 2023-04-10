@@ -430,7 +430,7 @@
 <tr>
 <td><a href="https://chatdoc.com/">chatdoc</a></td>
 <td>网页</td>
-<td>在线分析doc/pdf等</td>
+<td>在线分析pdf</td>
 </tr>
 <tr>
 <td><a href="https://app.pandagpt.io/chat">pandagpt</a></td>
