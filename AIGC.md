@@ -79,7 +79,7 @@
 <tr>
 <td><a href="https://github.com/Torantulino/Auto-GPT">Auto-GPT</a></td>
 <td>github</td>
-<td>AGI婴儿</td>
+<td>Baby AGI, 自动按需求写代码DEBUG直至运行成功。</td>
 </tr>    
 </tbody>
 </table>   
