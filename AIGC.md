@@ -438,6 +438,11 @@
 <td>在线分析pdf</td>
 </tr>
 <tr>
+<td><a href="https://www.graphmaker.ai/">graphmaker</a></td>
+<td>网页</td>
+<td>在线分析csv，可生成图表</td>
+</tr>    
+<tr>
 <td><a href="https://app.pandagpt.io/chat">pandagpt</a></td>
 <td>网页</td>
 <td>国产基于 GPT 的阅读器</td>
