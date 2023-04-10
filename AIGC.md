@@ -398,6 +398,11 @@
 <td>图像分割模型，元宇宙的</td>
 </tr>
 <tr>
+<td><a href="https://github.com/baaivision/Painter">SegGPT</a> / <a href="https://huggingface.co/spaces/BAAI/SegGPT">SegGPT demo</a></td>
+<td>github</td>
+<td>可根据上下文，进行图像分割的模型</td>
+</tr>
+<tr>
 <td><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></td>
 <td>网页</td>
 <td>Adobe的AI申请</td>
