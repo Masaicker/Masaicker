@@ -426,6 +426,11 @@
 <td><a href="https://www.notion.so/">Notion</a></td>
 <td>网页</td>
 <td>著名AI笔记本</td>
+</tr>    
+<tr>
+<td><a href="https://chatdoc.com/">chatdoc</a></td>
+<td>网页</td>
+<td>在线分析doc/pdf等</td>
 </tr>
 <tr>
 <td><a href="https://app.pandagpt.io/chat">pandagpt</a></td>
