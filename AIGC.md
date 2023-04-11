@@ -348,6 +348,11 @@
 <td>github</td>
 <td>几键部署stable diffusion到谷歌colab</td>
 </tr>
+<tr>
+<td><a href="https://leonardo.ai/">leonardo</a></td>
+<td>网页</td>
+<td>Stable Diffusion 为框架的在线绘图AI</td>
+</tr>
 </tbody>
 </table>
     <li><details>
