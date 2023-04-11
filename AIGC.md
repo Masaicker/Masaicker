@@ -224,6 +224,11 @@
 <td>github</td>
 <td>微软贾维斯，HuggingGPT</td>
 </tr>
+<tr>
+<td><a href=https://github.com/Ice-Hazymoon/openai-scf-proxy>openai-scf-proxy</a></td>
+<td>github</td>
+<td>云函数搭建代理</td>
+</tr>
 </tbody>
 </table>
     </details></li>
