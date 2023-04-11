@@ -222,7 +222,7 @@
 <tr>
 <td><a href="https://github.com/microsoft/JARVIS">JARVIS</a></td>
 <td>github</td>
-<td>微软贾维斯</td>
+<td>微软贾维斯，HuggingGPT</td>
 </tr>
 </tbody>
 </table>
