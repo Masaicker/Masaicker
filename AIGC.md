@@ -75,12 +75,7 @@
 <td><a href="https://www.jailbreakchat.com/">jailbreakchat</a></td>
 <td>聚合</td>
 <td>有不少越狱提示词</td>
-</tr>
-<tr>
-<td><a href="https://github.com/Torantulino/Auto-GPT">Auto-GPT</a></td>
-<td>github</td>
-<td>Baby AGI, 自动按需求写代码DEBUG直至运行成功</td>
-</tr>    
+</tr> 
 </tbody>
 </table>   
       <br>
@@ -228,6 +223,11 @@
 <td><a href=https://github.com/Ice-Hazymoon/openai-scf-proxy>openai-scf-proxy</a></td>
 <td>github</td>
 <td>云函数搭建代理</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Torantulino/Auto-GPT">Auto-GPT</a></td>
+<td>github</td>
+<td>Baby AGI, 自动按需求写代码DEBUG直至运行成功</td>
 </tr>
 </tbody>
 </table>
