@@ -187,7 +187,7 @@
 <tr>
 <td><a href="https://github.com/microsoft/visual-chatgpt">visual-chatgpt</a></td>
 <td>github</td>
-<td>微软的chatgpt和视觉模型结合项目，本地部署</td>
+<td>微软的chatgpt和视觉模型结合项目</td>
 </tr>
 <tr>
 <td><a href="https://github.com/RockChinQ/QChatGPT">QChatGPT</a></td>
