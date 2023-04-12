@@ -76,6 +76,11 @@
 <td>聚合</td>
 <td>有不少越狱提示词</td>
 </tr> 
+<tr>
+<td><a href="https://the-decoder.com/memorygpt-is-like-chatgpt-with-long-term-memory/#summary">MemoryGPT 新闻内容</a></td>
+<td>网页</td>
+<td>该网页上有参与beta的地址</td>
+</tr>
 </tbody>
 </table>   
       <br>
