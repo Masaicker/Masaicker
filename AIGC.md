@@ -280,6 +280,11 @@
 <td>网页</td>
 <td>游戏资产应用，在线训练</td>
 </tr>
+<tr>
+<td><a href="https://reverie.herokuapp.com/arXiv_Demo/#">arXiv_Demo</a></td>
+<td>网页</td>
+<td>数字人生模拟Demo的回放，严格来说不算游戏相关</td>
+</tr>   
 </tbody>
 </table>
 </details>
