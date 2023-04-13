@@ -81,6 +81,16 @@
 <td>网页</td>
 <td>该网页上有参与beta的地址</td>
 </tr>
+<tr>
+<td><a href="https://reverie.herokuapp.com/arXiv_Demo/#">arXiv_Demo</a></td>
+<td>网页</td>
+<td>数字人生模拟Demo的回放</td>
+</tr>
+<tr>
+<td><a href="https://arxiv.org/pdf/2304.03442v1.pdf">Generative Agents: Interactive Simulacra of Human Behavior</a></td>
+<td>论文</td>
+<td>arXiv_Demo相关论文</td>
+</tr>    
 </tbody>
 </table>   
       <br>
@@ -290,11 +300,6 @@
 <td>网页</td>
 <td>游戏资产应用，在线训练</td>
 </tr>
-<tr>
-<td><a href="https://reverie.herokuapp.com/arXiv_Demo/#">arXiv_Demo</a></td>
-<td>网页</td>
-<td>数字人生模拟Demo的回放，严格来说不算游戏相关</td>
-</tr>   
 </tbody>
 </table>
 </details>
