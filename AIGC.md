@@ -230,9 +230,14 @@
 <td>云函数搭建代理</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Torantulino/Auto-GPT">Auto-GPT</a> / <a href="https://agentgpt.reworkd.ai/">用户Demo</a></td>
+<td><a href="https://github.com/Torantulino/Auto-GPT">Auto-GPT</a></td>
 <td>github</td>
 <td>该应用根据目标和设定，可以进行自我迭代直至完成目标。</td>
+</tr>
+<tr>
+<td><a href="https://github.com/reworkd/AgentGPT">AgentGPT</a></td>
+<td>github</td>
+<td>根据Auto-GPT开发的应用实例。<a href="https://agentgpt.reworkd.ai/">Beat地址</a></td>
 </tr>
 </tbody>
 </table>
