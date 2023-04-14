@@ -39,7 +39,7 @@
 <tr>
 <td><a href="https://openai.com/blog/chatgpt-plugins">Chatgpt-plugins 申请</a></td>
 <td>网页</td>
-<td>被誉为苹果商店时刻</td>
+<td>被誉为苹果的App Store时刻</td>
 </tr>
 <tr>
 <td><a href="https://www.bing.com/new">新必应 申请</a></td>
