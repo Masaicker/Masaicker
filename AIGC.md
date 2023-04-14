@@ -177,7 +177,7 @@
 <tr>
 <td><a href="https://github.com/ddiu8081/chatgpt-demo">chatgpt-demo</a></td>
 <td>github</td>
-<td>同样是一个优秀的web项目</td>
+<td>一个优秀的web项目</td>
 </tr>
 <tr>
 <td><a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT">ChuanhuChatGPT</a></td>
@@ -238,6 +238,16 @@
 <td><a href=https://github.com/Ice-Hazymoon/openai-scf-proxy>openai-scf-proxy</a></td>
 <td>github</td>
 <td>云函数搭建代理</td>
+</tr>
+<tr>
+<td><a href="https://github.com/facebookresearch/segment-anything">SegmentAnything Model (SAM)</a> / <a href="https://segment-anything.com/demo#">Sam Demo</a></td>
+<td>github</td>
+<td>图像分割模型，元宇宙的</td>
+</tr>
+<tr>
+<td><a href="https://github.com/baaivision/Painter">SegGPT</a> / <a href="https://huggingface.co/spaces/BAAI/SegGPT">SegGPT demo</a></td>
+<td>github</td>
+<td>可根据上下文，进行图像分割的模型</td>
 </tr>
 <tr>
 <td><a href="https://github.com/Torantulino/Auto-GPT">Auto-GPT</a></td>
@@ -437,16 +447,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://github.com/facebookresearch/segment-anything">SegmentAnything Model (SAM)</a> / <a href="https://segment-anything.com/demo#">Sam Demo</a></td>
-<td>github</td>
-<td>图像分割模型，元宇宙的</td>
-</tr>
-<tr>
-<td><a href="https://github.com/baaivision/Painter">SegGPT</a> / <a href="https://huggingface.co/spaces/BAAI/SegGPT">SegGPT demo</a></td>
-<td>github</td>
-<td>可根据上下文，进行图像分割的模型</td>
-</tr>
 <tr>
 <td><a href="https://firefly.adobe.com/">Adobe Firefly 申请</a></td>
 <td>网页</td>
