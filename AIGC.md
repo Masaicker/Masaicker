@@ -517,6 +517,11 @@
 <td>聚合</td>
 <td>AI种类信息聚合</td>
 </tr>
+<tr>
+<td><a href="https://poe.com/">poe</a></td>
+<td>聚合</td>
+<td>目前流行的大模型聊天聚合</td>
+</tr>
 </tbody>
 </table>
     <li>
