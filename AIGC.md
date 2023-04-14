@@ -247,7 +247,17 @@
 <tr>
 <td><a href="https://github.com/reworkd/AgentGPT">AgentGPT</a></td>
 <td>github</td>
-<td>根据Auto-GPT开发的应用实例。<a href="https://agentgpt.reworkd.ai/">Beat地址</a></td>
+<td>根据Auto-GPT开发的应用实例<a href="https://agentgpt.reworkd.ai/">  Beat地址</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/yoheinakajima/babyagi">babyagi</a></td>
+<td>github</td>
+<td>类Auto-GPT，也能自我prompt达到目标阈值</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/IDEA-Research/Grounded-Segment-Anything">Grounded-Segment-Anything</a></td>
+<td>github</td>
+<td>通俗而言这是一个整合包，整合了Grounding DINO、Segment Anything、BLIP 和 Whisper 等模型</a></td>
 </tr>
 </tbody>
 </table>
