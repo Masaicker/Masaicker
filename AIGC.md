@@ -90,7 +90,17 @@
 <td><a href="https://arxiv.org/pdf/2304.03442v1.pdf">Generative Agents: Interactive Simulacra of Human Behavior</a></td>
 <td>论文</td>
 <td>arXiv_Demo相关论文</td>
-</tr>    
+</tr>
+<tr>
+<td><a href="https://huggingface.co/spaces/BlinkDL/Raven-RWKV-7B">Raven-RWKV-7B</a></td>
+<td>huggingface</td>
+<td>基于RNN和RWKV-LM进行fine-tuning的自然语言处理模型，Raven渡鸦</td>
+</tr>
+<tr>
+<td><a href="https://huggingface.co/spaces/Kevin676/Raven-with-Voice-Cloning-2.0">TalktoAI</a></td>
+<td>huggingface</td>
+<td>基于Raven渡鸦开发的声音克隆项目，提供少量样本可生成语音</td>
+</tr>
 </tbody>
 </table>   
       <br>
