@@ -102,7 +102,7 @@
 <td>基于Raven渡鸦开发的声音克隆项目，提供少量样本可生成语音</td>
 </tr>
 <tr>
-<td><a href="https://www.anthropic.com/claude-in-slack">Claude</a></td>
+<td><a href="https://www.anthropic.com/claude-in-slack">Claude-in-slack</a></td>
 <td>网页</td>
 <td>使用slack的工作间来挂载Claude；Claude是Anthropic开发的聊天AI；Anthropic的方向为可解释性人工智能；Anthropic的CEO为Openai“黑手党”</td>
 </tr>
