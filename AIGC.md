@@ -289,6 +289,11 @@
 <td>github</td>
 <td>通俗而言这是一个整合包，整合了Grounding DINO、Segment Anything、BLIP 和 Whisper 等模型</td>
 </tr>
+<tr>
+<td><a href="https://github.com/imClumsyPanda/langchain-ChatGLM">langchain-ChatGLM</a></td>
+<td>github</td>
+<td>一种利用 ChatGLM-6B + langchain 实现的基于本地知识的 ChatGLM 应用</td>
+</tr>
 </tbody>
 </table>
     </details></li>
