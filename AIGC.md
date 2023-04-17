@@ -166,6 +166,11 @@
 <td>绕开监管，慎用</td>
 </tr>
 <tr>
+<td><a href="https://github.com/xcanwin/KeepChatGPT/">KeepChatGPT</a></td>
+<td>github</td>
+<td>保持chatgpt在线，也包含绕开监管，慎用</td>
+</tr>
+<tr>
 <td><a href="https://chrome.google.com/webstore/detail/lunabot-chatgpt-on-any-we/jkeolmadidncndcbnajhaojepbolajag">LunaBot</a></td>
 <td>插件</td>
 <td>在任何网页上都可以使用的ChatGPT</td>
