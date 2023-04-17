@@ -106,6 +106,11 @@
 <td>网页</td>
 <td>使用slack的工作间来挂载Claude；Claude是Anthropic开发的聊天AI；Anthropic的方向为可解释性人工智能；Anthropic的CEO为Openai“黑手党”</td>
 </tr>
+<tr>
+<td><a href="https://www.cognosys.ai/">cognosys.ai</a></td>
+<td>网页</td>
+<td>autogpt类</td>
+</tr>
 </tbody>
 </table>   
       <br>
@@ -377,6 +382,11 @@
 <td><a href="https://github.com/Moonvy/OpenPromptStudio">OpenPromptStudio</a></td>
 <td>github</td>
 <td>AIGC 提示词可视化编辑器</td>
+</tr>
+<tr>
+<td><a href="https://clipdrop.co/stable-diffusion">stable diffusion xl</a></td>
+<td>网页</td>
+<td>Stable diffusion XL 在线试用</td>
 </tr>
 <tr>
 <td><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></td>
