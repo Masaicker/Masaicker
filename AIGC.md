@@ -387,6 +387,11 @@
 <td><a href="https://clipdrop.co/stable-diffusion">stable diffusion xl</a></td>
 <td>网页</td>
 <td>Stable diffusion XL 在线试用</td>
+</tr>   
+<tr>
+<td><a href="https://dreamstudio.ai/">dreamstudio</a></td>
+<td>网页</td>
+<td>dreamstudio开始支持Stable diffusion XL</td>
 </tr>
 <tr>
 <td><a href="https://clipdrop.co/stable-diffusion-reimagine">Stable diffusion reimagine 在线测试</a> / <a href="https://clipdrop.co/">ClipDrop 主页</a></td>
