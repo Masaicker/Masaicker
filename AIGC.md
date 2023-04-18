@@ -299,6 +299,11 @@
 <td>github</td>
 <td>一种利用 ChatGLM-6B + langchain 实现的基于本地知识的 ChatGLM 应用</td>
 </tr>
+<tr>
+<td><a href="https://github.com/visheratin/web-ai">Web AI</a></td>
+<td>github</td>
+<td>在浏览器中运行现代深度学习模型</td>
+</tr>
 </tbody>
 </table>
     </details></li>
