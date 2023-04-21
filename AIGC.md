@@ -304,6 +304,11 @@
 <td>github</td>
 <td>在浏览器中运行现代深度学习模型</td>
 </tr>
+<tr>
+<td><a href="https://github.com/JimmyLv/BibiGPT">BibiGPT</a></td>
+<td>github</td>
+<td>视频内容一键总结，项目内附地址</td>
+</tr>
 </tbody>
 </table>
     </details></li>
