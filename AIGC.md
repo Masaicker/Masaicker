@@ -307,7 +307,7 @@
 <tr>
 <td><a href="https://github.com/JimmyLv/BibiGPT">BibiGPT</a></td>
 <td>github</td>
-<td>视频内容一键总结，项目内附地址</td>
+<td>视频内容一键总结 <a href="https://b.jimmylv.cn/">在线地址</a> / <a href="https://chatvox.aitodo.co/">chatvox</a></td>
 </tr>
 </tbody>
 </table>
