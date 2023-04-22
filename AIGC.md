@@ -439,9 +439,9 @@
 <td>国产在线绘画AI</td>
 </tr>
 <tr>
-<td><a href="https://github.com/camenduru/stable-diffusion-webui-colab">stable-diffusion-webui-colab</a></td>
+<td><a href="https://github.com/camenduru/stable-diffusion-webui-colab"><s>stable-diffusion-webui-colab</s></a></td>
 <td>github</td>
-<td>几键部署stable diffusion到谷歌colab</td>
+<td><s>几键部署stable diffusion到谷歌colab。</s>谷歌已禁止sd免费部署到colab，付费没问题</td>
 </tr>
 <tr>
 <td><a href="https://leonardo.ai/">leonardo</a></td>
