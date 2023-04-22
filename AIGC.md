@@ -309,6 +309,11 @@
 <td>github</td>
 <td>视频内容一键总结 <a href="https://b.jimmylv.cn/">在线地址</a> / <a href="https://chatvox.aitodo.co/">chatvox</a></td>
 </tr>
+<tr>
+<td><a href="https://github.com/Anything-of-anything/Anything-3D">Anything-3D</a></td>
+<td>github</td>
+<td>通过SAM分割图像用于重新构成3D模型</td>
+</tr>
 </tbody>
 </table>
     </details></li>
@@ -359,6 +364,17 @@
 <td><a href="https://app.scenario.com/">scenario</a></td>
 <td>网页</td>
 <td>游戏资产应用，在线训练</td>
+</tr>
+<tr>
+<td><a href="https://store.steampowered.com/app/1519310/AI_Dungeon/">AI Dungeon</a></td>
+<td>steam</td>
+<td>文本RPG，褒贬不一，<a href="https://aidungeon.io/">网页端</a></td>
+</tr>
+<tr>
+<td><a href="https://store.steampowered.com/app/2280000/SQUARE_ENIX_AI_Tech_Preview_THE_PORTOPIA_SERIAL_MURDER_CASE/">
+SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
+<td>steam</td>
+<td>用AI对话侦破港口镇连续杀人事件</a></td>
 </tr>
 </tbody>
 </table>
