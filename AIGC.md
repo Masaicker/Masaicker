@@ -267,7 +267,12 @@
 <tr>
 <td><a href="https://github.com/facebookresearch/segment-anything">SegmentAnything Model (SAM)</a> / <a href="https://segment-anything.com/demo#">Sam Demo</a></td>
 <td>github</td>
-<td>图像分割模型，元宇宙的</td>
+<td>图像分割模型。元宇宙的</td>
+</tr>
+<tr>
+<td><a href="https://github.com/facebookresearch/dinov2">dinov2</a></td>
+<td>github</td>
+<td>自监督学习的模型，可以用于图像分类、目标检测和图像分割等任务。元宇宙的</td>
 </tr>
 <tr>
 <td><a href="https://github.com/baaivision/Painter">SegGPT</a> / <a href="https://huggingface.co/spaces/BAAI/SegGPT">SegGPT demo</a></td>
