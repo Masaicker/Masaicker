@@ -374,7 +374,12 @@
 <td><a href="https://store.steampowered.com/app/2280000/SQUARE_ENIX_AI_Tech_Preview_THE_PORTOPIA_SERIAL_MURDER_CASE/">
 SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td>steam</td>
-<td>用AI对话侦破港口镇连续杀人事件</a></td>
+<td>用AI对话侦破港口镇连续杀人事件</td>
+</tr>
+<tr>
+<td><a href="https://store.steampowered.com/app/2199920/Inworld_Origins/">Inworld Origins</a></td>
+<td>steam</td>
+<td>还是侦探对话</td>
 </tr>
 </tbody>
 </table>
