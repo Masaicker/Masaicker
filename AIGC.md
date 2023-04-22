@@ -599,6 +599,11 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td>聚合</td>
 <td>目前流行的大模型聊天聚合</td>
 </tr>
+<tr>
+<td><a href="https://www.cyanpuppets.com/">CYAN.AI</a></td>
+<td>网页</td>
+<td>AI动捕，平价化策略</td>
+</tr>
 </tbody>
 </table>
     <li>
