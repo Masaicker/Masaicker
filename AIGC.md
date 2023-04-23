@@ -270,9 +270,9 @@
 <td>微软贾维斯，HuggingGPT</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Vision-CAIR/MiniGPT-4">MiniGPT-4</a> / <a href="https://minigpt-4.github.io/">在线测试地址</a></td>
+<td><a href="https://github.com/Vision-CAIR/MiniGPT-4">MiniGPT-4</a></td>
 <td>github</td>
-<td>MiniGPT-4:使用高级大规模语言模型增强视觉语言理解 </td>
+<td>MiniGPT-4:使用高级大规模语言模型增强视觉语言理解 <a href="https://minigpt-4.github.io/">在线地址</a></td>
 </tr>
 <tr>
 <td><a href=https://github.com/Ice-Hazymoon/openai-scf-proxy>openai-scf-proxy</a></td>
