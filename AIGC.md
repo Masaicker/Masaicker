@@ -614,6 +614,16 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td>网页</td>
 <td>AI动捕，平价化策略</td>
 </tr>
+<tr>
+<td><a href="https://www.chatmind.tech/">chatmind</a></td>
+<td>网页</td>
+<td>看似图论，不太推荐</td>
+</tr>
+<tr>
+<td><a href="https://beta.character.ai/">character.ai</a></td>
+<td>网页</td>
+<td>与预设角色/名人聊天</td>
+</tr>
 </tbody>
 </table>
     <li>
