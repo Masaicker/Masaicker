@@ -634,6 +634,11 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td>网页</td>
 <td>与预设角色/名人聊天</td>
 </tr>
+<tr>
+<td><a href="https://moss.fastnlp.top/">moss</a></td>
+<td>网页</td>
+<td>复旦大学自然语言处理实验室发布的对话式大型语言模型</td>
+</tr>
 </tbody>
 </table>
     <li>
