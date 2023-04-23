@@ -474,6 +474,11 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td>网页</td>
 <td>Stable Diffusion 为框架的在线绘图AI</td>
 </tr>
+<tr>
+<td><a href="https://www.bluewillow.ai/">bluewillow</a></td>
+<td>网页</td>
+<td>类midjourney AI画图，目前在Discord邀请机器人到自己频道使用</td>
+</tr>
 </tbody>
 </table>
     <li><details>
