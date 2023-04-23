@@ -184,6 +184,11 @@
 <td><a href="https://chrome.google.com/webstore/detail/promptstorm-fill-in-the-b/gkcdaooannhlioejchebhpkllbcackig">Prompt Storm</a></td>
 <td>插件</td>
 <td>便捷右边栏，快速点击生成prompt</td>
+</tr>    
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/summary-for-bilibili/hjjdhgophcjfgkempifgiflgekhecnme">Summary for Bilibili</a></td>
+<td>插件</td>
+<td>总结b站视频</td>
 </tr> 
 </tbody>
 </table>
