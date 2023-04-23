@@ -180,6 +180,11 @@
 <td>插件</td>
 <td>用说话代替打字</td>
 </tr>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/promptstorm-fill-in-the-b/gkcdaooannhlioejchebhpkllbcackig">Prompt Storm</a></td>
+<td>插件</td>
+<td>便捷右边栏，快速点击生成prompt</td>
+</tr> 
 </tbody>
 </table>
     </details></li>
