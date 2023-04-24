@@ -344,6 +344,11 @@
 <td>github</td>
 <td>Stable Diffusion 公司的大语言模型</td>
 </tr>
+<tr>
+<td><a href="https://github.com/OpenLMLab/MOSS">MOSS</a></td>
+<td>github</td>
+<td>复旦大学自然语言处理实验室发布的对话式大型语言模型 <a href="https://moss.fastnlp.top/">官方网页</a></td>
+</tr>
 </tbody>
 </table>
     </details></li>
@@ -643,11 +648,6 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td><a href="https://beta.character.ai/">character.ai</a></td>
 <td>网页</td>
 <td>与预设角色/名人聊天</td>
-</tr>
-<tr>
-<td><a href="https://moss.fastnlp.top/">moss</a></td>
-<td>网页</td>
-<td>复旦大学自然语言处理实验室发布的对话式大型语言模型</td>
 </tr>
 </tbody>
 </table>
