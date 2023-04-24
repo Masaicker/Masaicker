@@ -339,6 +339,11 @@
 <td>github</td>
 <td>NeRF是一种基于神经辐射场的方法，用于生成逼真的3D场景渲染图像</td>
 </tr>
+<tr>
+<td><a href="https://github.com/Stability-AI/StableLM">StableLM</a></td>
+<td>github</td>
+<td>Stable Diffusion 公司的大语言模型</td>
+</tr>
 </tbody>
 </table>
     </details></li>
