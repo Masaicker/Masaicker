@@ -349,6 +349,11 @@
 <td>github</td>
 <td>复旦大学自然语言处理实验室发布的对话式大型语言模型 <a href="https://moss.fastnlp.top/">官方网页</a></td>
 </tr>
+<tr>
+<td><a href="https://github.com/databrickslabs/dolly">dolly</a></td>
+<td>github</td>
+<td>Dolly2.0 大语言模型，可商用 <a href="https://huggingface.co/databricks/dolly-v2-12b">huggingface</a></td>
+</tr>
 </tbody>
 </table>
     </details></li>
