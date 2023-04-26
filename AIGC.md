@@ -514,6 +514,11 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td>网页</td>
 <td>类midjourney AI画图，目前在Discord邀请机器人到自己频道使用</td>
 </tr>
+<tr>
+<td><a href="https://github.com/deepinsight/insightface">insightface</a></td>
+<td>github</td>
+<td>换脸，可以加入Discord机器人，配合midjourney使用</td>
+</tr>
 </tbody>
 </table>
     <li><details>
