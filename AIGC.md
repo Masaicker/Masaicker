@@ -659,6 +659,11 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td>网页</td>
 <td>与预设角色/名人聊天</td>
 </tr>
+<tr>
+<td><a href="https://github.com/MuiseDestiny/zotero-gpt">zotero-gpt</a></td>
+<td>github</td>
+<td>与ChatGPT读文献 <a href="https://zotero-chinese.gitee.io/zotero-plugins/#/">Zotero中文社区</a></td>
+</tr>
 </tbody>
 </table>
     <li>
