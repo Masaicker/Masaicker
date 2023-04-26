@@ -54,7 +54,12 @@
 <tr>
 <td><a href="https://arxiv.org/pdf/2303.12712.pdf">Sparks of Artificial General Intelligence: Early experiments with GPT-4</a> / <a href="https://ask.qcloudimg.com/draft/8642415/7jbe0upcgg.pdf">中译版</a></td>
 <td>论文</td>
-<td>GTP4早期实验报告</td>
+<td>GPT4早期实验报告</td>
+</tr>
+<tr>
+<td><a href="https://cdn.openai.com/papers/gpt-4-system-card.pdf">GPT-4 System Card</a></td>
+<td>论文</td>
+<td>GPT4论文</td>
 </tr>
 <tr>
 <td><a href="https://arxiv.org/pdf/2303.18223.pdf">A Survey of Large Language Models</a></td>
