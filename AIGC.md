@@ -359,6 +359,11 @@
 <td>github</td>
 <td>Dolly2.0 大语言模型，可商用 <a href="https://huggingface.co/databricks/dolly-v2-12b">huggingface</a></td>
 </tr>
+<tr>
+<td><a href="https://github.com/xtekky/gpt4free">gpt4free</a></td>
+<td>github</td>
+<td>如题，通过逆向获取gpt3.5乃至4的使用权。有争议。</td>
+</tr>
 </tbody>
 </table>
     </details></li>
