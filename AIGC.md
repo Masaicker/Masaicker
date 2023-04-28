@@ -362,7 +362,12 @@
 <tr>
 <td><a href="https://github.com/xtekky/gpt4free">gpt4free</a></td>
 <td>github</td>
-<td>如题，通过逆向获取gpt3.5乃至4的使用权。有争议。</td>
+<td>如题，通过逆向获取gpt3.5乃至4的使用权。有争议</td>
+</tr>
+<tr>
+<td><a href=" https://github.com/gaomingqi/Track-Anything">Track-Anything</a></td>
+<td>github</td>
+<td>基于Segment Anything、XMem和E2FGVI开发的视频对象跟踪与分割工具</td>
 </tr>
 </tbody>
 </table>
