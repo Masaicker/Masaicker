@@ -267,7 +267,7 @@
 <tr>
 <td><a href="https://github.com/nomic-ai/gpt4all">gpt4all</a></td>
 <td>github</td>
-<td>本地部署，详情进项目查阅</td>
+<td>本地部署，一个GPT语言模型开源框架</td>
 </tr>
 <tr>
 <td><a href="https://github.com/microsoft/JARVIS">JARVIS</a></td>
@@ -373,6 +373,11 @@
 <td><a href="https://github.com/geekyutao/Inpaint-Anything">Inpaint-Anything</a></td>
 <td>github</td>
 <td>使用Segment Anything和图像修补模型实现随意修补任何东西</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Stanford-TML/EDGE">edge-dance</a></td>
+<td>github</td>
+<td>端到端的舞蹈生成，本地部署</td>
 </tr>
 </tbody>
 </table>
