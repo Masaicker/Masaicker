@@ -365,9 +365,14 @@
 <td>如题，通过逆向获取gpt3.5乃至4的使用权。有争议</td>
 </tr>
 <tr>
-<td><a href=" https://github.com/gaomingqi/Track-Anything">Track-Anything</a></td>
+<td><a href="https://github.com/gaomingqi/Track-Anything">Track-Anything</a></td>
 <td>github</td>
 <td>基于Segment Anything、XMem和E2FGVI开发的视频对象跟踪与分割工具</td>
+</tr>
+<tr>
+<td><a href="https://github.com/geekyutao/Inpaint-Anything">Inpaint-Anything</a></td>
+<td>github</td>
+<td>使用Segment Anything和图像修补模型实现随意修补任何东西</td>
 </tr>
 </tbody>
 </table>
