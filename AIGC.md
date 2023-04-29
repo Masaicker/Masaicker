@@ -382,7 +382,7 @@
 <tr>
 <td><a href="https://github.com/AIGC-Audio/AudioGPT">AudioGPT</a></td>
 <td>github</td>
-<td>基于 GPT 模型的语音合成项目</td>
+<td>一个多模态的端到端声音生成模型</td>
 </tr>
 </tbody>
 </table>
