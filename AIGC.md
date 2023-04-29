@@ -379,6 +379,11 @@
 <td>github</td>
 <td>端到端的舞蹈生成，本地部署</td>
 </tr>
+<tr>
+<td><a href="https://github.com/AIGC-Audio/AudioGPT">AudioGPT</a></td>
+<td>github</td>
+<td>基于 GPT 模型的语音合成项目</td>
+</tr>
 </tbody>
 </table>
     </details></li>
