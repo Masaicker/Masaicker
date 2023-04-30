@@ -711,6 +711,7 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
                     <li><a href="https://www.cloudflare.com/">cloudflare</a></li>
                     <li><a href="https://colab.research.google.com/">colab</a></li>
                     <li><a href="https://huggingface.co/">huggingface</a></li>
+                    <li><a href="https://replit.com/">replit</a></li>                    
                 </ul>
             </details>
         </blockquote>
