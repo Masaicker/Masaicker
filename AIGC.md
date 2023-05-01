@@ -549,6 +549,11 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td>github</td>
 <td>换脸，可以加入Discord机器人，配合midjourney使用</td>
 </tr>
+<tr>
+<td><a href="https://github.com/deep-floyd/IF">DeepFloyd IF</a></td>
+<td>github</td>
+<td>stability.ai发布的新的文生图模型，解决了文字的问题。 <a href="https://huggingface.co/spaces/DeepFloyd/IF">在线地址</a></td>
+</tr>
 </tbody>
 </table>
     <li><details>
