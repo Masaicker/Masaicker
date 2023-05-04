@@ -116,6 +116,11 @@
 <td>网页</td>
 <td>autogpt类</td>
 </tr>
+<tr>
+<td><a href="https://huggingface.co/chat/">huggingchat</a></td>
+<td>网页</td>
+<td>huggingface的chat机器人</td>
+</tr>
 </tbody>
 </table>   
       <br>
@@ -383,6 +388,11 @@
 <td><a href="https://github.com/AIGC-Audio/AudioGPT">AudioGPT</a></td>
 <td>github</td>
 <td>一个多模态的端到端声音生成模型</td>
+</tr>
+<tr>
+<td><a href="https://huggingface.co/replit/replit-code-v1-3b">replit-code-v1-3b</a></td>
+<td>huggingface</td>
+<td>开源微调模型，如题</td>
 </tr>
 </tbody>
 </table>
