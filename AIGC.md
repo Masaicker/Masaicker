@@ -582,8 +582,8 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
                   <li>描述越靠近垫图，成品就越靠近构图；</li>
               </ul>
           </li>
-          <li>⚠️ --repeat int 重复工作int次，配合--chaos可以实现多风格化的半自动流程。</li>
-          <li>⚠️ 使用{ 大括号 }排列组合，{ 大括号 }可相互嵌套。参考：<br>
+          <li>--repeat int 重复工作int次，配合--chaos可以实现多风格化的半自动流程。</li>
+          <li>使用{ 大括号 }排列组合，{ 大括号 }可相互嵌套。参考：<br>
               <blockquote>
                   /imagine a {cyberpunk, vaporwave, art deco} {cat, dog}<br>
                   将产生以下工作<br>
@@ -595,7 +595,6 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
                   /imagine a art deco dog<br>
               </blockquote>          
           </li>
-          <li>⚠️ 表示需要Pro Plan档订阅，60刀/月</li>
       </ul>
     </details></li>
   </ul>
