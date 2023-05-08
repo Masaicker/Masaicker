@@ -394,6 +394,11 @@
 <td>huggingface</td>
 <td>开源微调模型，如题</td>
 </tr>
+<tr>
+<td><a href="https://github.com/openai/shap-e">shap-e</a></td>
+<td>github</td>
+<td>openai较新的开源文生3D模型</td>
+</tr>
 </tbody>
 </table>
     </details></li>
