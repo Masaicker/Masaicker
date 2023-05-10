@@ -714,6 +714,11 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td>github</td>
 <td>阅读pdf，总结扩展 <a href="https://zotero-chinese.gitee.io/zotero-plugins/#/">Zotero中文社区</a></td>
 </tr>
+<tr>
+<td><a href="https://xinghuo.xfyun.cn/">讯飞星火</a></td>
+<td>网页</td>
+<td>讯飞星火认知大模型</td>
+</tr>
 </tbody>
 </table>
     <li>
