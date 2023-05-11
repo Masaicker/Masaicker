@@ -121,6 +121,11 @@
 <td>网页</td>
 <td>huggingface的chat机器人</td>
 </tr>
+<tr>
+<td><a href="https://bard.google.com/">bard</a></td>
+<td>网页</td>
+<td>谷歌的bard</td>
+</tr>
 </tbody>
 </table>   
       <br>
