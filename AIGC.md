@@ -399,6 +399,11 @@
 <td>github</td>
 <td>openai较新的开源文生3D模型</td>
 </tr>
+<tr>
+<td><a href="https://github.com/facebookresearch/ImageBind">ImageBind</a></td>
+<td>github</td>
+<td>元宇宙六模态模型</td>
+</tr>
 </tbody>
 </table>
     </details></li>
