@@ -126,6 +126,11 @@
 <td>网页</td>
 <td>谷歌的bard</td>
 </tr>
+<tr>
+<td><a href="https://vcai.mpi-inf.mpg.de/projects/DragGAN/">Drag Your GAN</a></td>
+<td>网页</td>
+<td>一种控制生成对抗网络（GANs）的方法，它可以通过用户交互的方式“拖动”图像中的任何点，以精确地到达目标点</td>
+</tr>
 </tbody>
 </table>   
       <br>
