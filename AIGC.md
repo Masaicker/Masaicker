@@ -734,6 +734,11 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td>网页</td>
 <td>讯飞星火认知大模型</td>
 </tr>
+<tr>
+<td><a href="https://rask.ai">rask.ai</a></td>
+<td>网页</td>
+<td>把视频的音频转成指定语言</td>
+</tr>
 </tbody>
 </table>
     <li>
