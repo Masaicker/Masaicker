@@ -605,7 +605,7 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
                   <li>修复模式下，去除链接/所有，仍然会保留构图； </li>
                   <li>简单暴力PS后，融合效果更佳；</li>
                   <li>描述越靠近垫图，成品就越靠近构图；</li>
-                  <li>垫图选择一张，把这一张作为下一次的垫图，反复炼丹；</li>
+                  <li>垫图后，选择比较中意的一张，把这一张作为下一次的垫图，反复炼丹；</li>
               </ul>
           </li>
           <li>--repeat int 重复工作int次，配合--chaos可以实现多风格化的半自动流程。</li>
