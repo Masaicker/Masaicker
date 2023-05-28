@@ -132,7 +132,7 @@
 <td>一种控制生成对抗网络（GANs）的方法，它可以通过用户交互的方式“拖动”图像中的任何点，以精确地到达目标点</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Zeqiang-Lai/DragGAN">DragGAN非官方Demo</a></td>
+<td><a href="https://github.com/Zeqiang-Lai/DragGAN">DragGAN 非官方 Demo</a></td>
 <td>github</td>
 <td>DragGAN 全功能实现，在线Demo，本地部署试用</td>
 </tr>
