@@ -132,6 +132,11 @@
 <td>一种控制生成对抗网络（GANs）的方法，它可以通过用户交互的方式“拖动”图像中的任何点，以精确地到达目标点</td>
 </tr>
 <tr>
+<td><a href="https://github.com/Zeqiang-Lai/DragGAN">DragGAN非官方Demo</a></td>
+<td>github</td>
+<td>DragGAN 全功能实现，在线Demo，本地部署试用</td>
+</tr>
+<tr>
 <td><a href="https://skybox.blockadelabs.com">skybox ai</a></td>
 <td>网页</td>
 <td>简单涂鸦、输入提示，生成360度全景</td>
