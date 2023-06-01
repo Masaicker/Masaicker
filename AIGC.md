@@ -141,6 +141,11 @@
 <td>网页</td>
 <td>简单涂鸦、输入提示，生成360度全景</td>
 </tr>
+<tr>
+<td><a href="https://www.superpowerdaily.com/">Superpower Daily</a></td>
+<td>网页</td>
+<td>每日AI新闻和深度见解</td>
+</tr>
 </tbody>
 </table>   
       <br>
