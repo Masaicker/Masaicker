@@ -112,6 +112,11 @@
 <td>使用slack的工作间来挂载Claude；Claude是Anthropic开发的聊天AI；Anthropic的方向为可解释性人工智能；Anthropic的CEO为Openai“黑手党”</td>
 </tr>
 <tr>
+<td><a href="https://claude.ai/chats">Claude 2</a></td>
+<td>网页</td>
+<td>Claude 2，目前只支持美国英国IP。</td>
+</tr>
+<tr>
 <td><a href="https://www.cognosys.ai/">cognosys.ai</a></td>
 <td>网页</td>
 <td>autogpt类</td>
@@ -754,6 +759,11 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td><a href="https://rask.ai">rask.ai</a></td>
 <td>网页</td>
 <td>把视频的音频转成指定语言</td>
+</tr>
+<tr>
+<td><a href="https://www.modelscope.cn/studios/damo/ModelScopeGPT/summary">ModelScopeGPT</a></td>
+<td>网页</td>
+<td>ModelScopeGPT（魔搭GPT），是一个大小模型协同的agent系统。</td>
 </tr>
 </tbody>
 </table>
