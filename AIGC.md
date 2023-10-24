@@ -151,6 +151,11 @@
 <td>网页</td>
 <td>每日AI新闻和深度见解</td>
 </tr>
+<tr>
+<td><a href="https://huggingface.co/openai/whisper-large-v2">whisper-large-v2</a></td>
+<td>huggingface</td>
+<td>openai的whisper，语音转文字、转译等</td>
+</tr>
 </tbody>
 </table>   
       <br>
