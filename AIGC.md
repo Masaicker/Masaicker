@@ -156,6 +156,11 @@
 <td>huggingface</td>
 <td>openai的whisper，语音转文字、转译等</td>
 </tr>
+<tr>
+<td><a href="https://realfill.github.io/">realfill</a></td>
+<td>网页</td>
+<td>图片真实填充</td>
+</tr>
 </tbody>
 </table>   
       <br>
