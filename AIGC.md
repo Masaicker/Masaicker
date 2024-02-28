@@ -775,6 +775,16 @@ SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE</a></td>
 <td>网页</td>
 <td>ModelScopeGPT（魔搭GPT），是一个大小模型协同的agent系统。</td>
 </tr>
+<tr>
+<td><a href="https://www.coze.com/">coze</a></td>
+<td>网页</td>
+<td>字节跳动的GPTs</td>
+</tr>
+<tr>
+<td><a href="https://kimi.moonshot.cn/">kimichat</a></td>
+<td>网页</td>
+<td>Moonshot AI 的智能助手</td>
+</tr>
 </tbody>
 </table>
     <li>
