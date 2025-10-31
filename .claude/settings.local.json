@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "mcp__exa__web_search_exa",
+      "Bash(mkdir:*)",
+      "Bash(move:*)",
+      "Bash(mv:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
